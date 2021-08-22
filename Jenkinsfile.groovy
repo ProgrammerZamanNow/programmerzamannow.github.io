@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                sh 'GIT_USER=khannedy USE_SSH=true yarn deploy'
+                sh 'GIT_USER=khannedy USE_SSH=true DEPLOYMENT_BRANCH=gh-pages yarn deploy'
             }
         }
     }
