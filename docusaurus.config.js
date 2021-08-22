@@ -17,6 +17,10 @@ module.exports = {
             trackingID: 'G-EL58ST4JHS',
             anonymizeIP: true,
         },
+        gtag: {
+            trackingID: 'G-EL58ST4JHS',
+            anonymizeIP: true,
+        },
         navbar: {
             title: 'Programmer Zaman Now',
             logo: {
