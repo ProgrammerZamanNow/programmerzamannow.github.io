@@ -14,7 +14,7 @@ module.exports = {
     projectName: 'programmerzamannow.github.io',
     themeConfig: {
         googleAnalytics: {
-            trackingID: 'G-88B5RZZ5TY',
+            trackingID: 'G-EL58ST4JHS',
             anonymizeIP: true,
         },
         navbar: {
