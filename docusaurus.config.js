@@ -13,6 +13,10 @@ module.exports = {
     organizationName: 'ProgrammerZamanNow',
     projectName: 'programmerzamannow.github.io',
     themeConfig: {
+        googleAnalytics: {
+            trackingID: 'G-88B5RZZ5TY',
+            anonymizeIP: true,
+        },
         navbar: {
             title: 'Programmer Zaman Now',
             logo: {
@@ -184,6 +188,7 @@ module.exports = {
         ],
     ],
     plugins: [
+        ['@docusaurus/plugin-google-analytics'],
         [
             '@docusaurus/plugin-content-docs',
             {
