@@ -10,8 +10,8 @@ module.exports = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/pzn.png',
-    organizationName: 'ProgrammerZamanNow', // Usually your GitHub org/user name.
-    projectName: 'website', // Usually your repo name.
+    organizationName: 'ProgrammerZamanNow',
+    projectName: 'programmerzamannow.github.io',
     themeConfig: {
         navbar: {
             title: 'Programmer Zaman Now',
