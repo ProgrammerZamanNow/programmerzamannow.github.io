@@ -40,7 +40,7 @@ module.exports = {
                         //     label: 'Go-Lang',
                         // },
                         {
-                            to: '/tutorial-java/intro',
+                            to: '/tutorial-java/dasar/pengenalan-java',
                             label: 'Java',
                         },
                         // {
