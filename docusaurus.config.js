@@ -33,33 +33,28 @@ module.exports = {
                 },
                 {
                     position: 'left',
-                    to: '/tutorial',
-                    label: 'Tutorial',
-                },
-                {
-                    position: 'left',
                     label: 'Tutorial',
                     items: [
-                        {
-                            to: '/tutorial-golang/intro',
-                            label: 'Go-Lang',
-                        },
+                        // {
+                        //     to: '/tutorial-golang/intro',
+                        //     label: 'Go-Lang',
+                        // },
                         {
                             to: '/tutorial-java/intro',
                             label: 'Java',
                         },
-                        {
-                            to: '/tutorial-javascript/intro',
-                            label: 'JavaScript',
-                        },
-                        {
-                            to: '/tutorial-kotlin/intro',
-                            label: 'Kotlin',
-                        },
-                        {
-                            to: '/tutorial-php/intro',
-                            label: 'PHP',
-                        },
+                        // {
+                        //     to: '/tutorial-javascript/intro',
+                        //     label: 'JavaScript',
+                        // },
+                        // {
+                        //     to: '/tutorial-kotlin/intro',
+                        //     label: 'Kotlin',
+                        // },
+                        // {
+                        //     to: '/tutorial-php/intro',
+                        //     label: 'PHP',
+                        // },
                     ]
                 },
                 {
