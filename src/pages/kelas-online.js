@@ -149,16 +149,9 @@ function OnlineCoursesHeader() {
         <header className={clsx('hero hero--primary', styles.heroBanner)}>
             <div className="container">
                 <h1 className="hero__title">Kelas Online</h1>
-                <p className="hero__subtitle">Yuk gabung dengan ribuan member yang sudah bergabung kelas Programmer
-                    ZamanNow.
-                    <br/> Bayar sekali, akses kelasnya SELAMANYA, GRATIS update materi!</p>
-                {/*<div className={styles.buttons}>*/}
-                {/*    <Link*/}
-                {/*        className="button button--secondary button--lg"*/}
-                {/*        to="/docs/intro">*/}
-                {/*        Yuk gabung!*/}
-                {/*    </Link>*/}
-                {/*</div>*/}
+                <p className="hero__subtitle">Yuk gabung dengan ribuan peserta yang sudah bergabung kelas Programmer
+                    Zaman Now.
+                    <br/> Bayar sekali, akses kelasnya SELAMANYA, GRATIS update materi baru!</p>
             </div>
         </header>
     );
