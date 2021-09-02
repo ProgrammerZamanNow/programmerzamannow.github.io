@@ -8,34 +8,102 @@ import styles from './kelas-online.module.css';
 const CourseList = [
     {
         title: 'Kelas Online Go-Lang',
-        image: require('../../static/img/kelas-online/kong.png').default,
+        image: require('../../static/img/kelas-online/golang.jpg').default,
         description: (
             <>
                 Membahas pemrograman Go-Lang secara tuntas, dari Go-Lang Dasar, Modules,
                 Database, sampai membuat RESTful API
             </>
         ),
+        link: "/kelas-online/golang"
     },
     {
         title: 'Kelas Online Java',
-        image: require('../../static/img/kelas-online/ksqldb.png').default,
+        image: require('../../static/img/kelas-online/java.jpg').default,
         description: (
             <>
                 Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
                 ahead and move your docs into the <code>docs</code> directory.
             </>
         ),
+        link: "/kelas-online/java"
     },
     {
         title: 'Kelas Online JavaScript',
-        image: require('../../static/img/kelas-online/kubernetes.png').default,
+        image: require('../../static/img/kelas-online/javascript.jpg').default,
         description: (
             <>
                 Extend or customize your website layout by reusing React. Docusaurus can
                 be extended while reusing the same header and footer.
             </>
         ),
-        link: 'https://youtube.com/c/ProgrammerZamanNow'
+        link: "/kelas-online/javascript"
+    },
+    {
+        title: 'Kelas Online PHP',
+        image: require('../../static/img/kelas-online/php.jpg').default,
+        description: (
+            <>
+                Extend or customize your website layout by reusing React. Docusaurus can
+                be extended while reusing the same header and footer.
+            </>
+        ),
+        link: "/kelas-online/php"
+    },
+    {
+        title: 'Kelas Online Kotlin',
+        image: require('../../static/img/kelas-online/kotlin.jpg').default,
+        description: (
+            <>
+                Extend or customize your website layout by reusing React. Docusaurus can
+                be extended while reusing the same header and footer.
+            </>
+        ),
+        link: "/kelas-online/kotlin"
+    },
+    {
+        title: 'Kelas Online MySQL',
+        image: require('../../static/img/kelas-online/mysql.jpg').default,
+        description: (
+            <>
+                Extend or customize your website layout by reusing React. Docusaurus can
+                be extended while reusing the same header and footer.
+            </>
+        ),
+        link: "/kelas-online/mysql"
+    },
+    {
+        title: 'Kelas Online Git',
+        image: require('../../static/img/kelas-online/git.jpg').default,
+        description: (
+            <>
+                Extend or customize your website layout by reusing React. Docusaurus can
+                be extended while reusing the same header and footer.
+            </>
+        ),
+        link: "/kelas-online/git"
+    },
+    {
+        title: 'Kelas Online HTTP',
+        image: require('../../static/img/kelas-online/http.jpg').default,
+        description: (
+            <>
+                Extend or customize your website layout by reusing React. Docusaurus can
+                be extended while reusing the same header and footer.
+            </>
+        ),
+        link: "/kelas-online/http"
+    },
+    {
+        title: 'Kelas Online OpenAPI',
+        image: require('../../static/img/kelas-online/openapi.jpg').default,
+        description: (
+            <>
+                Extend or customize your website layout by reusing React. Docusaurus can
+                be extended while reusing the same header and footer.
+            </>
+        ),
+        link: "/kelas-online/openapi"
     }
 ];
 
@@ -56,6 +124,7 @@ function Course({image, title, description, link}) {
                     Yuk gabung!
                 </Link>
             </div>
+            <br/>
         </div>
     );
 }
@@ -82,14 +151,14 @@ function OnlineCoursesHeader() {
                 <h1 className="hero__title">Kelas Online</h1>
                 <p className="hero__subtitle">Yuk gabung dengan ribuan member yang sudah bergabung kelas Programmer
                     ZamanNow.
-                    <br/> Sekali bayar, akses kelasnya kapan saja, SELAMANYA!</p>
-                <div className={styles.buttons}>
-                    <Link
-                        className="button button--secondary button--lg"
-                        to="/docs/intro">
-                        Yuk gabung!
-                    </Link>
-                </div>
+                    <br/> Bayar sekali, akses kelasnya SELAMANYA, GRATIS update materi!</p>
+                {/*<div className={styles.buttons}>*/}
+                {/*    <Link*/}
+                {/*        className="button button--secondary button--lg"*/}
+                {/*        to="/docs/intro">*/}
+                {/*        Yuk gabung!*/}
+                {/*    </Link>*/}
+                {/*</div>*/}
             </div>
         </header>
     );

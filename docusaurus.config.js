@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
     title: 'Programmer Zaman Now',
-    tagline: 'Menjadi Software Development Expert yang Zaman Now Banget!',
+    tagline: 'Tempat Belajar untuk Menjadi Software Development Expert yang Zaman Now Banget!',
     url: 'https://tutorial.programmerzamannow.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
