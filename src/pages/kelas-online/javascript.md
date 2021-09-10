@@ -10,9 +10,9 @@ Belajar JavaScript untuk pemula sampai mahir. Di kelas ini kita akan belajar Jav
 
 ## Kenapa Belajar JavaScript?
 
-JavaScript saat ini merupakan bahasa pemrograman yang mulai banyak diadopsi oleh banyak perusahaan. Salah satu alasannya
-karena JavaScript adalah bahasa pemrograman yang sangat ringan dan mudah digunakan. Saat ini banyak sekali perusahaan teknologi
-yang banyak melakukan migrasi pembuatann aplikasinya menggunakan JavaScript.
+JavaScript merupakan standard bahasa untuk membuat web, terutama Frontend. Jika kita ingin membuat aplikasi web, sudah 
+pasti kita wajib belajar JavaScript. Selain untuk Frontend, sekarang juga JavaScript bisa digunakan untuk membuat
+aplikasi Backend dengan bantuan teknologi NodeJS.
 
 ## Materi yang Diajarkan
 
