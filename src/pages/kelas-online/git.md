@@ -16,8 +16,8 @@ ingin menjadi programmer.
 
 ## Materi yang Diajarkan
 
-Kelas Pemrograman Git dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
-Peserta akan dibimbing belajar Pemrograman Git secara bertahap, cukup ikuti materi dari awal sampai akhir.
+Kelas Git dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
+Peserta akan dibimbing belajar Git secara bertahap, cukup ikuti materi dari awal sampai akhir.
 
 ### Git Dasar
 
@@ -55,7 +55,7 @@ Peserta akan dibimbing belajar Pemrograman Git secara bertahap, cukup ikuti mate
 ### Git Branching
 
 <details>
-<summary>Daftar Materi : Git Object Oriented Programming</summary>
+<summary>Daftar Materi : Git Branching</summary>
 
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
@@ -66,7 +66,7 @@ Segera Hadir, GRATIS untuk yang sudah gabung
 ### Git Remote
 
 <details>
-<summary>Daftar Materi : Git Generic</summary>
+<summary>Daftar Materi : Git Remote</summary>
 
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
