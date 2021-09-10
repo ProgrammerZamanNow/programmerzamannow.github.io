@@ -5,32 +5,33 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
     {
-        title: 'Easy to Use',
+        title: 'Roadmap Jelas',
         Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and
-                used to get your website up and running quickly.
+                Di sini, semua diajarkan dari awal sampai akhir. Setiap kelas sudah di susun sesuai
+                dengan Roadmap nya. Sehingga peserta tidak akan tersesat ketika belajar, cukup ikuti kelas yang diinginkan.
             </>
         ),
     },
     {
-        title: 'Focus on What Matters',
+        title: 'Materi Kekinian',
         Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
         description: (
             <>
-                Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-                ahead and move your docs into the <code>docs</code> directory.
+                Materi di sini selalu <i>up to date</i> sesuai dengan perkembangan teknologi saat ini. Sehingga peserta
+                akan mendapatkan materi yang pasti selalu terbaru. Selain itu semua materi akan selalu di update secara
+                berkala.
             </>
         ),
     },
     {
-        title: 'Powered by React',
+        title: 'Instruktur Berpengalaman',
         Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
         description: (
             <>
-                Extend or customize your website layout by reusing React. Docusaurus can
-                be extended while reusing the same header and footer.
+                Di sini, instruktur belajar nya adalah praktisi yang sangat berpengalaman di dunia industri. Sehingga
+                peserta tidak hanya bisa belajar teknologi saja, namun bisa belajar best practice dan pengalaman dari instrukturnya.
             </>
         ),
     }
