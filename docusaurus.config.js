@@ -65,19 +65,19 @@ module.exports = {
                         // },
                     ]
                 },
-                {
-                    to: '/blog',
-                    label: 'Blog',
-                    position: 'left'
-                },
+                // {
+                //     to: '/blog',
+                //     label: 'Blog',
+                //     position: 'left'
+                // },
                 {
                     position: 'right',
                     label: 'Komunitas',
                     items: [
-                        {
-                            href: 'https://discord.com',
-                            label: 'Discord',
-                        },
+                        // {
+                        //     href: 'https://discord.com',
+                        //     label: 'Discord',
+                        // },
                         {
                             href: 'https://www.facebook.com/groups/526962685085680',
                             label: 'Facebook Group',
