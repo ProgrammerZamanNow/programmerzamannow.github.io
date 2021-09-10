@@ -12,7 +12,7 @@ export const CourseList = [
         courses: [
             {
                 title: 'Kelas Go-Lang',
-                image: require('../../static/img/kelas-online/golang.jpg').default,
+                image: require('../../static/img/kelas-online/small/golang.jpg').default,
                 description: (
                     <>
                         Membahas pemrograman Go-Lang secara tuntas, dari Go-Lang Dasar, Modules,
@@ -23,7 +23,7 @@ export const CourseList = [
             },
             {
                 title: 'Kelas Java',
-                image: require('../../static/img/kelas-online/java.jpg').default,
+                image: require('../../static/img/kelas-online/small/java.jpg').default,
                 description: (
                     <>
                         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -34,7 +34,7 @@ export const CourseList = [
             },
             {
                 title: 'Kelas JavaScript',
-                image: require('../../static/img/kelas-online/javascript.jpg').default,
+                image: require('../../static/img/kelas-online/small/javascript.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -45,7 +45,7 @@ export const CourseList = [
             },
             {
                 title: 'Kelas PHP',
-                image: require('../../static/img/kelas-online/php.jpg').default,
+                image: require('../../static/img/kelas-online/small/php.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -56,7 +56,7 @@ export const CourseList = [
             },
             {
                 title: 'Kelas Kotlin',
-                image: require('../../static/img/kelas-online/kotlin.jpg').default,
+                image: require('../../static/img/kelas-online/small/kotlin.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -67,7 +67,7 @@ export const CourseList = [
             },
             {
                 title: 'Kelas Dart',
-                image: require('../../static/img/kelas-online/kotlin.jpg').default,
+                image: require('../../static/img/kelas-online/small/dart.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -84,7 +84,7 @@ export const CourseList = [
         courses: [
             {
                 title: 'Kelas MySQL',
-                image: require('../../static/img/kelas-online/mysql.jpg').default,
+                image: require('../../static/img/kelas-online/small/mysql.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -101,7 +101,7 @@ export const CourseList = [
         courses: [
             {
                 title: 'Kelas Spring Design Patterns',
-                image: require('../../static/img/kelas-online/git.jpg').default,
+                image: require('../../static/img/kelas-online/small/spring.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -118,7 +118,7 @@ export const CourseList = [
         courses: [
             {
                 title: 'Kelas Git',
-                image: require('../../static/img/kelas-online/git.jpg').default,
+                image: require('../../static/img/kelas-online/small/git.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -129,7 +129,7 @@ export const CourseList = [
             },
             {
                 title: 'Kelas HTTP',
-                image: require('../../static/img/kelas-online/http.jpg').default,
+                image: require('../../static/img/kelas-online/small/http.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
@@ -139,8 +139,19 @@ export const CourseList = [
                 link: "/kelas-online/http"
             },
             {
+                title: 'Kelas RESTful API',
+                image: require('../../static/img/kelas-online/small/restfulapi.jpg').default,
+                description: (
+                    <>
+                        Extend or customize your website layout by reusing React. Docusaurus can
+                        be extended while reusing the same header and footer.
+                    </>
+                ),
+                link: "/kelas-online/restful-api"
+            },
+            {
                 title: 'Kelas OpenAPI',
-                image: require('../../static/img/kelas-online/openapi.jpg').default,
+                image: require('../../static/img/kelas-online/small/openapi.jpg').default,
                 description: (
                     <>
                         Extend or customize your website layout by reusing React. Docusaurus can
