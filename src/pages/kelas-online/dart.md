@@ -2,7 +2,7 @@
 title: Kelas Online Pemrograman Dart
 ---
 
-# :fire: Pemrograman Dart :fire:
+# Kelas Online : Pemrograman Dart 
 
 Belajar pemrograman Dart untuk pemula sampai mahir. Di kelas ini kita akan belajar pemrograman Dart 
 dari mulai awal sekali, sehingga cocok untuk pemula. 
@@ -18,10 +18,13 @@ sangat menjanjikan.
 
 ## Materi yang Diajarkan
 
-Kelas Pemrograman Dart dibagi menjadi beberapa materi. Tiap materi akan fokus mengajarkan satu materi
-secara fokus dan mendalam.
+Kelas Pemrograman Dart dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
+Peserta akan dibimbing belajar Pemrograman Dart secara bertahap, cukup ikuti materi dari awal sampai akhir.
 
 ### Dart Dasar
+
+<details>
+<summary>Daftar Materi : Dart Dasar</summary>
 
 ```text
 00:00:00 - Pendahuluan
@@ -71,35 +74,62 @@ secara fokus dan mendalam.
 03:57:58 - Materi Selanjutnya
 ```
 
+</details>
+
 ### Dart Object Oriented Programming
+
+<details>
+<summary>Daftar Materi : Dart Object Oriented Programming</summary>
 
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
 ```
+
+</details>
 
 ### Dart Generic
 
+<details>
+<summary>Daftar Materi : Dart Generic</summary>
+
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
 ```
+
+</details>
 
 ### Dart Packages
 
+<details>
+<summary>Daftar Materi : Dart Packages</summary>
+
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
 ```
+
+</details>
 
 ### Dart Unit Test
 
+<details>
+<summary>Daftar Materi : Dart Unit Test</summary>
+
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
 ```
+
+</details>
 
 ### Dart Async Programming
 
+<details>
+<summary>Daftar Materi : Dart Async Programming</summary>
+
 ```text
 Segera Hadir, GRATIS untuk yang sudah gabung
 ```
+
+</details>
 
 ## Review Peserta
 
