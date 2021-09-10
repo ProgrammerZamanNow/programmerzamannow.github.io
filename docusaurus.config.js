@@ -140,10 +140,10 @@ module.exports = {
                 {
                     title: 'Komunitas',
                     items: [
-                        {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
-                        },
+                        // {
+                        //     label: 'Discord',
+                        //     href: 'https://discordapp.com/invite/docusaurus',
+                        // },
                         {
                             label: 'Facebook Group',
                             href: 'https://www.facebook.com/groups/526962685085680',
