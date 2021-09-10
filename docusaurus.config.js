@@ -169,6 +169,7 @@ module.exports = {
         prism: {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
+            additionalLanguages: ['java', 'php', 'kotlin', 'dart'],
         },
     },
     presets: [

@@ -34,6 +34,6 @@ Visual Studio Code bisa di download di halaman websitenya : [https://code.visual
 
 Dan agar Visual Studio Code mendukung Java, kita bisa menginstall extension Java : [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
---
+---
 
 Setelah teman-teman menginstall IDE yang teman-teman sukai. Sekarang saatnya kita mulai belajar pemrograman Java
