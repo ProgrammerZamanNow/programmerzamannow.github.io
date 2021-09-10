@@ -226,7 +226,7 @@ function OnlineCoursesHeader() {
             <div className="container">
                 {/*<h1 className="hero__title">Kelas Online</h1>*/}
                 <p className="hero__subtitle">Yuk gabung dengan RIBUAN peserta yang sudah bergabung kelas Programmer
-                    Zaman Now. Bayar sekali, akses kelasnya SELAMANYA. Dan GRATIS jika ada update materi baru!</p>
+                    Zaman Now. <br/>Bayar sekali, akses kelasnya SELAMANYA. Dan GRATIS jika ada update materi baru!</p>
             </div>
         </header>
     );
