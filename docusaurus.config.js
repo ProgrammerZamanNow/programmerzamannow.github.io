@@ -79,7 +79,7 @@ module.exports = {
                         //     label: 'Discord',
                         // },
                         {
-                            href: 'https://www.facebook.com/groups/526962685085680',
+                            href: 'https://web.facebook.com/groups/programmerzamannow',
                             label: 'Facebook Group',
                         }
                     ]
