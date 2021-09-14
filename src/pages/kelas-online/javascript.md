@@ -14,6 +14,24 @@ JavaScript merupakan standard bahasa untuk membuat web, terutama Frontend. Jika 
 pasti kita wajib belajar JavaScript. Selain untuk Frontend, sekarang juga JavaScript bisa digunakan untuk membuat
 aplikasi Backend dengan bantuan teknologi NodeJS.
 
+## Review Peserta
+
+![JavaScript](/img/kelas-online/review/ReviewJavaScript.jpg)
+
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas JavaScript dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
@@ -204,7 +222,3 @@ Segera hadir, GRATIS untuk yang sudah bergabung!
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
