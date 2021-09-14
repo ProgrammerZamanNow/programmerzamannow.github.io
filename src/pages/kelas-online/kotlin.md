@@ -14,6 +14,20 @@ Kotlin saat ini adalah bahasa pilihan utama jika kita ingin membuat aplikasi mob
 bahwa Kotlin sekarang menjadi bahasa utama untuk pengembangan aplikasi di Android. Selain untuk Android, Kotlin juga 
 bisa digunakan untuk membuat aplikasi Backend dengan bantuan teknologi Java.
 
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/pemrograman-kotlin-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-kotlin-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas Kotlin dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
@@ -332,7 +346,3 @@ Materi Selanjutnya
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
