@@ -13,6 +13,24 @@ Belajar MySQL untuk pemula sampai mahir. Di kelas ini kita akan belajar MySQL da
 MySQL merupakan salah satu database opensource paling populer di dunia. Banyak sekali perusahaan dari yang besar sampai yang kecil
 menggunakan database MySQL.
 
+## Review Peserta
+
+![Go-Lang](/img/kelas-online/review/ReviewMySQL.jpg)
+
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas MySQL dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
@@ -108,7 +126,3 @@ Peserta akan dibimbing belajar MySQL secara bertahap, cukup ikuti materi dari aw
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
