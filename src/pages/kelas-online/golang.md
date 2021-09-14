@@ -14,6 +14,24 @@ Go-Lang saat ini merupakan bahasa pemrograman yang mulai banyak diadopsi oleh ba
 karena Go-Lang adalah bahasa pemrograman yang sangat ringan dan mudah digunakan. Saat ini banyak sekali perusahaan teknologi
 yang banyak melakukan migrasi pembuatann aplikasinya menggunakan Go-Lang.
 
+## Review Peserta
+
+![Go-Lang](/img/kelas-online/review/ReviewGolang.jpg)
+
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas Go-Lang dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
@@ -346,7 +364,3 @@ Peserta akan dibimbing belajar Go-Lang secara bertahap, cukup ikuti materi dari 
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
