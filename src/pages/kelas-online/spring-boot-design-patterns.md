@@ -79,7 +79,3 @@ Segera Hadir, GRATIS untuk yang sudah gabung
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang

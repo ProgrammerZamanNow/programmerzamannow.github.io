@@ -13,6 +13,20 @@ Belajar OpenAPI untuk pemula sampai mahir. Di kelas ini kita akan belajar OpenAP
 OpenAPI merupakan standarisasi dokumentasi untuk API. Jika kita akan membuat API menggunakan RESTful API, maka kita wajib
 mengerti tentang OpenAPI agar dokumentasi API yang kita buat memiliki standarisasi.
 
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 100%) : GRATIS
+
+[https://www.udemy.com/course/belajar-openapi-untuk-pemula/?referralCode=4CC4D9681CC6A4C55A0A](https://www.udemy.com/course/belajar-openapi-untuk-pemula/?referralCode=4CC4D9681CC6A4C55A0A)
+
 ## Materi yang Diajarkan
 
 Kelas OpenAPI dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
@@ -47,7 +61,3 @@ Peserta akan dibimbing belajar OpenAPI secara bertahap, cukup ikuti materi dari 
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang

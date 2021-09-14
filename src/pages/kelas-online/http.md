@@ -11,7 +11,21 @@ Belajar HTTP untuk pemula sampai mahir. Di kelas ini kita akan belajar HTTP dari
 ## Kenapa Belajar HTTP?
 
 HTTP saat ini merupakan standard protokol yang digunakan di era internet. Semua web menggunakan HTTP. Oleh karena itu, 
-pengetahuan dasar tentang HTTP wajib sekali dikuasai oleh programmer jika ingin membuat aplikasi berbasis web. 
+pengetahuan dasar tentang HTTP wajib sekali dikuasai oleh programmer jika ingin membuat aplikasi berbasis web.
+
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 100%) : GRATIS
+
+[https://www.udemy.com/course/belajar-http-untuk-pemula/?referralCode=C780318316E2B909461F](https://www.udemy.com/course/belajar-http-untuk-pemula/?referralCode=C780318316E2B909461F)
 
 ## Materi yang Diajarkan
 
@@ -41,7 +55,3 @@ Peserta akan dibimbing belajar HTTP secara bertahap, cukup ikuti materi dari awa
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
