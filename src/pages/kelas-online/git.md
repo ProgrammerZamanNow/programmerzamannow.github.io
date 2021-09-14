@@ -14,6 +14,20 @@ Git saat ini merupakan version control paling populer di dunia. Hampir semua per
 untuk manajemen kode program nya. Oleh karena itu, Git saat ini sudah menjadi hal yang wajib dikuasai untuk siapapu yang
 ingin menjadi programmer.
 
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas Git dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
