@@ -14,6 +14,24 @@ Java saat ini merupakan salah satu bahasa pemrograman yang paling populer di dun
 Java, baik untuk membuat aplikasi web, mobile, sampang menggunakan Java untuk data processing. Java merupakan bahasa pemrograman
 yang ekosistemnya yang terbesar di dunia, sehingga banyak sekali diadopsi oleh perusahaa skala besar.
 
+## Review Peserta
+
+![Java](/img/kelas-online/review/ReviewJava.jpg)
+
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas Java dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
@@ -628,7 +646,3 @@ Segera Hadir, GRATIS untuk yang sudah gabung!
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
