@@ -26,8 +26,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/java.jpg').default,
                 description: (
                     <>
-                        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-                        ahead and move your docs into the <code>docs</code> directory.
+                        Membahas pemrograman Java secara tuntas, dari Java Dasar, OOP,
+                        Database, Web, sampai membuat RESTful API
                     </>
                 ),
                 link: "/kelas-online/java"
@@ -37,8 +37,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/javascript.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas pemrograman JavaScript secara tuntas, dari JavaScript Dasar, OOP,
+                        Modules, DOM, sampai membuat Async
                     </>
                 ),
                 link: "/kelas-online/javascript"
@@ -48,8 +48,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/php.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas pemrograman PHP secara tuntas, dari PHP Dasar, OOP, Database,
+                        Web, Unit Test, Composer, MVC, sampai membuat RESTful API
                     </>
                 ),
                 link: "/kelas-online/php"
@@ -59,8 +59,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/kotlin.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas pemrograman Kotlin secara tuntas, dari Kotlin Dasar, OOP,
+                        Generic, Collection, sampai membuat Coroutine
                     </>
                 ),
                 link: "/kelas-online/kotlin"
@@ -70,8 +70,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/dart.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas pemrograman Dart secara tuntas, dari Dart Dasar, OOP,
+                        Packages, sampai membuat Async
                     </>
                 ),
                 link: "/kelas-online/dart"
@@ -87,8 +87,7 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/mysql.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas database MySQL secara tuntas, dari MySQL Dasar, sampai membuat Studi Kasus MySQL
                     </>
                 ),
                 link: "/kelas-online/mysql"
@@ -104,8 +103,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/spring.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas Spring Design Patterns secara tuntas, dari Creational Patterns,
+                        Structural Patterns dan Behavioral Patterns
                     </>
                 ),
                 link: "/kelas-online/spring-boot-design-patterns"
@@ -121,8 +120,7 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/git.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas Git secara tuntas, dari Git Dasar, Git Branching sampai Git Remote
                     </>
                 ),
                 link: "/kelas-online/git"
@@ -132,8 +130,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/http.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas HTTP secara tuntas, dari Pengenalan HTTP, HTTP Request,
+                        HTTP Response sampai Header dan Caching
                     </>
                 ),
                 link: "/kelas-online/http"
@@ -143,8 +141,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/restfulapi.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas RESTful API secara tuntas, dari Pengenalan API,
+                        Resource Naming sampai HATEOAS
                     </>
                 ),
                 link: "/kelas-online/restful-api"
@@ -154,8 +152,8 @@ export const CourseList = [
                 image: require('../../static/img/kelas-online/small/openapi.jpg').default,
                 description: (
                     <>
-                        Extend or customize your website layout by reusing React. Docusaurus can
-                        be extended while reusing the same header and footer.
+                        Membahas OpenAPI secara tuntas, dari Pengenanaln OpenAPI, Tipe Data, Schema
+                        Sampai Code Generator
                     </>
                 ),
                 link: "/kelas-online/openapi"
