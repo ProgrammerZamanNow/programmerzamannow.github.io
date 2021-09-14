@@ -14,6 +14,20 @@ Design pattern merupakan salah satu hal yang wajib dikuasai sekarang, terutama p
 menjadi senior programmer. Pada kelas ini, kita akan belajar tentang Design Patterns dengan implementasinya di framework
 Spring Boot.
 
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=SEPTEMBER2021)
+
 ## Materi yang Diajarkan
 
 Kelas Spring Boot Design Patterns dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
