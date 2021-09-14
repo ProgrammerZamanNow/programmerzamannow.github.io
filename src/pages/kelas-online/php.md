@@ -11,7 +11,25 @@ Belajar PHP untuk pemula sampai mahir. Di kelas ini kita akan belajar PHP dari m
 ## Kenapa Belajar PHP?
 
 PHP saat ini merupakan bahasa pemrograman yang paling popuper untuk membuat Web. Terutama di Indonesia, PHP masih menjadi
-bahasa pemrograman yang banyak sekali digunakan untuk membuat web, baik web skala kecil atau skala besar. 
+bahasa pemrograman yang banyak sekali digunakan untuk membuat web, baik web skala kecil atau skala besar.
+
+## Review Peserta
+
+![PHP](/img/kelas-online/review/ReviewPHP.jpg)
+
+## Keuntungan Gabung Sekarang
+
+- Harga lebih murah, harga akan di update ketika ada materi baru
+- Update materi GRATIS, tanpa biaya tambahan
+- Grup diskusi sesama peserta di DISCORD
+
+## Gabung Sekarang
+
+Harga Normal : ~~Rp. 350.000~~
+
+Harga Promo (Diskon 63%) : Rp. 129.000
+
+[https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
 
 ## Materi yang Diajarkan
 
@@ -373,7 +391,3 @@ Peserta akan dibimbing belajar PHP secara bertahap, cukup ikuti materi dari awal
 ```
 
 </details>
-
-## Review Peserta
-
-## Gabung Sekarang
