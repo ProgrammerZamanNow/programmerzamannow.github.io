@@ -72,7 +72,22 @@ Peserta akan dibimbing belajar Git secara bertahap, cukup ikuti materi dari awal
 <summary>Daftar Materi : Git Branching</summary>
 
 ```text
-Segera Hadir, GRATIS untuk yang sudah gabung
+00:00:00 - Pendahuluan
+00:01:47 - Pengenalan Branch
+00:08:09 - Branch
+00:16:57 - Multiple Branch
+00:24:35 - Merge
+00:31:21 - Merge Conflict
+00:42:51 - Cherry Pick
+00:49:43 - Tag
+00:59:19 - Stash
+01:11:12 - Rebase
+01:24:12 - Squash
+01:32:44 - Git Branching Strategy
+01:34:27 - Gitflow Workflow
+01:42:20 - Trunk Based Development
+01:46:36 - Forking Workflow
+01:50:54 - Materi Selanjutnya
 ```
 
 </details>
