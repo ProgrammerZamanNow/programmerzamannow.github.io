@@ -41,6 +41,11 @@ module.exports = {
                 },
                 {
                     position: 'left',
+                    to: '/promo',
+                    label: 'Promo',
+                },
+                {
+                    position: 'left',
                     label: 'Tutorial',
                     items: [
                         // {
