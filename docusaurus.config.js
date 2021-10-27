@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
     title: 'Programmer Zaman Now',
     tagline: 'Tempat Belajar untuk Menjadi Software Development Expert yang Zaman Now Banget!',
-    url: 'https://tutorial.programmerzamannow.com',
+    url: 'https://www.programmerzamannow.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
