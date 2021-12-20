@@ -68,6 +68,14 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 - Harga Promo : Rp. 99.000
 - Link Promo : https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=HARIIBU
 
+## Promo Kelas DevOps
+
+### Promo Kelas Docker : Pemula sampai Mahir
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/docker-pemula/?couponCode=HARIIBU
+
 ## Promo Kelas Lainnya
 
 ### Promo Kelas Git : Pemula sampai Mahir
