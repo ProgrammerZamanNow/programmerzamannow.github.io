@@ -95,6 +95,32 @@ export const CourseList = [
         ]
     },
     {
+        name: 'Kelas Online Framework',
+        description: '',
+        courses: [
+            {
+                title: 'Kelas Spring Boot',
+                image: require('../../static/img/kelas-online/small/spring.jpg').default,
+                description: (
+                    <>
+                        Membahas Spring Framework dan Spring Boot secara tuntas, dari dasar sampai mahir, disertau studi kasus.
+                    </>
+                ),
+                link: "/kelas-online/spring-boot"
+            },
+            {
+                title: 'Kelas NodeJS',
+                image: require('../../static/img/kelas-online/small/nodejs.jpg').default,
+                description: (
+                    <>
+                        Membahas NodeJS secara tuntas, dari dasar sampai mahir, disertau studi kasus.
+                    </>
+                ),
+                link: "/kelas-online/nodejs"
+            },
+        ]
+    },
+    {
         name: 'Kelas Online Code Design',
         description: '',
         courses: [
