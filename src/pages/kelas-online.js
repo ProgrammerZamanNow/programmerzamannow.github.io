@@ -121,6 +121,22 @@ export const CourseList = [
         ]
     },
     {
+        name: 'Kelas Online Devops',
+        description: '',
+        courses: [
+            {
+                title: 'Kelas Docker',
+                image: require('../../static/img/kelas-online/small/docker.jpg').default,
+                description: (
+                    <>
+                        Membahas Docker secara tuntas, dari dasar sampai mahir, disertau studi kasus.
+                    </>
+                ),
+                link: "/kelas-online/docker"
+            },
+        ]
+    },
+    {
         name: 'Kelas Online Code Design',
         description: '',
         courses: [

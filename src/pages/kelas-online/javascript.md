@@ -28,9 +28,9 @@ aplikasi Backend dengan bantuan teknologi NodeJS.
 
 Harga Normal : ~~Rp. 350.000~~
 
-Harga Promo (Diskon 63%) : Rp. 129.000
+Harga Promo : Rp. 99.000
 
-[https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+[https://www.programmerzamannow.com/promo/](https://www.programmerzamannow.com/promo/)
 
 ## Materi yang Diajarkan
 
@@ -207,7 +207,29 @@ Peserta akan dibimbing belajar JavaScript secara bertahap, cukup ikuti materi da
 <summary>Daftar Materi : JavaScript Document Object Model</summary>
 
 ```text
-Segera hadir, GRATIS untuk yang sudah bergabung!
+00:00:00 - Pendahuluan
+00:01:44 - Pengenalan DOM
+00:06:43 - Memebuat Project
+00:07:39 - Tipe Data
+00:12:27 - Document
+00:21:40 - Node
+00:35:17 - Element
+00:50:30 - NodeList
+01:04:18 - Attr
+01:13:07 - NamedNodeMap
+01:16:47 - Text Node
+01:23:00 - Event Handler
+01:34:28 - Event
+01:43:59 - Style
+01:50:19 - Inner Text dan Inner HTML
+01:59:36 - Window
+02:05:31 - Query Selector
+02:21:58 - Node Type
+02:26:50 - HTML Element
+02:31:28 - HTML Form Element
+02:44:37 - HTML Table Element
+02:50:24 - HTML Element Lainnya
+02:53:16 - Materi Selanjutnya
 ```
 
 </details>
@@ -218,7 +240,42 @@ Segera hadir, GRATIS untuk yang sudah bergabung!
 <summary>Daftar Materi : JavaScript Async Programming</summary>
 
 ```text
-Segera hadir, GRATIS untuk yang sudah bergabung!
+00:00:00 - Pendahuluan
+00:01:46 - Pengenalan Asynchronous
+00:08:23 - Callback
+00:17:40 - AJAX
+00:26:35 - Menerima Data di AJAX
+00:33:29 - Response Status di AJAX
+00:38:45 - State di AJAX
+00:42:19 - Hookbin
+00:45:18 - Mengirim Data dengan AJAX
+00:54:02 - URL Search Param
+01:01:34 - Form Data dengan AJAX
+01:06:26 - Upload File dengan AJAX
+01:15:42 - Promise
+01:28:22 - Promise Method
+01:43:48 - Fetch API
+01:59:44 - Async Await
+02:14:48 - Web Worker
+02:33:29 - Materi Selanjutnya
+```
+
+</details>
+
+### JavaScript Todolist
+
+<details>
+<summary>Daftar Materi : JavaScript Todolist</summary>
+
+```text
+00:00:00 - Pendahuluan
+00:01:43 - Target Aplikasi
+00:03:21 - Membuat Halaman
+00:07:04 - Menambah Todolist
+00:10:14 - Menampilkan Todolist
+00:18:09 - Search Todolist
+00:24:26 - Menghapus Todolist
+00:29:50 - Materi Selanjutnya
 ```
 
 </details>

@@ -27,9 +27,9 @@ menggunakan database MySQL.
 
 Harga Normal : ~~Rp. 350.000~~
 
-Harga Promo (Diskon 63%) : Rp. 129.000
+Harga Promo : Rp. 99.000
 
-[https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+[https://www.programmerzamannow.com/promo/](https://www.programmerzamannow.com/promo/)
 
 ## Materi yang Diajarkan
 

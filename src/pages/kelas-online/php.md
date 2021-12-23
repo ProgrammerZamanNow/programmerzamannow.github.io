@@ -27,9 +27,9 @@ bahasa pemrograman yang banyak sekali digunakan untuk membuat web, baik web skal
 
 Harga Normal : ~~Rp. 350.000~~
 
-Harga Promo (Diskon 63%) : Rp. 129.000
+Harga Promo : Rp. 99.000
 
-[https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+[https://www.programmerzamannow.com/promo/](https://www.programmerzamannow.com/promo/)
 
 ## Materi yang Diajarkan
 
@@ -388,6 +388,83 @@ Peserta akan dibimbing belajar PHP secara bertahap, cukup ikuti materi dari awal
 01:44:06 - Local Domain
 01:49:30 - Apache HTTPD
 02:03:40 - Materi Selanjutnya
+```
+
+</details>
+
+### Membuat Login Management dengan PHP
+
+<details>
+<summary>Daftar Materi : Membuat Login Management dengan PHP</summary>
+
+```text
+00:00:00 - Pendahuluan
+00:01:52 - Demo Final Project
+00:04:01 - Membuat Project
+00:08:04 - Setup Database
+00:14:55 - Arsitektur Aplikasi
+00:20:47 - Database Connection
+00:27:52 - Unit Test Database Connection
+00:30:38 - Template Halaman Web
+00:33:14 - View Template
+00:38:37 - Unit Test View Template
+00:41:52 - User Registration Repository
+00:47:16 - Unit Test User Registration Repository
+00:54:22 - User Registration Service
+01:07:18 - Unit Test User Registration Service
+01:14:44 - User Registration Controller
+01:25:40 - Unit Test User Registration Controller
+01:37:14 - User Login Service
+01:41:37 - Unit Test User login Service
+01:44:57 - User Login Controller
+01:49:42 - Unit Test User Login Controller
+01:54:43 - Session Repository
+02:00:15 - Unit Test Session Repository
+02:03:40 - Session Service
+02:12:01 - Unit Test Session Service
+02:22:08 - Login Session
+02:27:59 - Unit Test Login Session
+02:35:09 - User Logout Controller
+02:36:35 - Unit Test User Logout Controller
+02:38:30 - Session Middleware
+02:44:40 - Unit Test Session Middleware
+02:51:08 - User Profile Update Repository
+02:52:44 - Unit Test User Profile Update Repository
+02:54:25 - User Profile Update Service
+02:58:43 - Unit Test User Profile Update Service
+03:03:47 - User Profile Update Controller
+03:11:29 - Unit Test User Profile Update Controller
+03:15:57 - User Password Update Service
+03:20:44 - Unit Test User Password Update Service
+03:24:20 - User Password Update Controller
+03:29:23 - Unit Test User Password Update Controller
+03:34:03 - Memeriksa Semua Unit Test
+03:38:53 - Manual Test
+03:41:00 - Penutup
+```
+
+</details>
+
+### PHP Logging
+
+<details>
+<summary>Daftar Materi : PHP Logging</summary>
+
+```text
+00:00:00 - Pendahuluan
+00:02:02 - Pengenalan Logging
+00:08:01 - Logging Library
+00:10:46 - Membuat Project
+00:13:43 - Logger
+00:18:34 - Handler
+00:26:37 - Logging
+00:33:03 - Level
+00:42:57 - Context
+00:47:20 - Processor
+00:58:12 - Reset Handler dan Processor
+01:04:36 - Formatter
+01:13:05 - Rotating File Handler
+01:18:57 - Materi Selanjutnya
 ```
 
 </details>

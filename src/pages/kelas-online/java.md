@@ -28,9 +28,9 @@ yang ekosistemnya yang terbesar di dunia, sehingga banyak sekali diadopsi oleh p
 
 Harga Normal : ~~Rp. 350.000~~
 
-Harga Promo (Diskon 63%) : Rp. 129.000
+Harga Promo : Rp. 99.000
 
-[https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+[https://www.programmerzamannow.com/promo/](https://www.programmerzamannow.com/promo/)
 
 ## Materi yang Diajarkan
 
@@ -609,7 +609,46 @@ Peserta akan dibimbing belajar Java secara bertahap, cukup ikuti materi dari awa
 <summary>Daftar Materi : Java Lombok</summary>
 
 ```text
-Segera Hadir, GRATIS untuk yang sudah gabung!
+00:00:00 - Pendahuluan
+00:01:37 - Pengenalan Lombok
+00:04:24 - Membuat Project
+00:06:32 - Getter dan Setter
+00:13:23 - Constructor
+00:25:43 - ToString
+00:29:31 - Equals dan HashCode
+00:37:05 - Data
+00:42:33 - Builder
+00:51:13 - Non Null
+00:59:18 - Value
+01:02:02 - With
+01:06:03 - Cleanup
+01:12:16 - Sneaky Throws
+01:17:33 - Log
+01:20:53 - Synchronized
+01:26:36 - Experimental Feature
+01:28:01 - Materi Selanjutnya
+```
+
+</details>
+
+### Java Logging
+
+<details>
+<summary>Daftar Materi : Java Logging</summary>
+
+```text
+00:00:00 - Pendahuluan
+00:01:33 - Pengenalan Logging
+00:05:29 - Logging Library
+00:11:10 - Membuat Project
+00:12:23 - Logger
+00:20:44 - Level
+00:26:47 - Log Format
+00:31:54 - Configuration
+00:42:15 - Appender
+00:55:34 - Layout
+01:00:28 - Mapped Diagnostic Context
+01:15:09 - Materi Selanjutnya
 ```
 
 </details>

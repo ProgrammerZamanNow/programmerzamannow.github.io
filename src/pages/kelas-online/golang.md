@@ -28,9 +28,9 @@ yang banyak melakukan migrasi pembuatann aplikasinya menggunakan Go-Lang.
 
 Harga Normal : ~~Rp. 350.000~~
 
-Harga Promo (Diskon 63%) : Rp. 129.000
+Harga Promo : Rp. 99.000
 
-[https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=SEPTEMBER2021](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=SEPTEMBER2021)
+[https://www.programmerzamannow.com/promo/](https://www.programmerzamannow.com/promo/)
 
 ## Materi yang Diajarkan
 
@@ -361,6 +361,35 @@ Peserta akan dibimbing belajar Go-Lang secara bertahap, cukup ikuti materi dari 
 01:56:34 - Authentication
 02:02:11 - Unit Test
 02:29:36 - Materi Selanjutnya
+```
+
+</details>
+
+### Go-Lang Dependency Injection
+
+<details>
+<summary>Daftar Materi : Go-Lang Dependency Injection</summary>
+
+```text
+00:00:00 - Pendahuluan
+00:02:05 - Pengenalan Dependency Injection
+00:08:33 - Library Dependency Injection
+00:11:46 - Membuat Project
+00:13:33 - Menginstall Google Wire
+00:17:36 - Provider
+00:22:01 - Injector
+00:29:50 - Dependency Injection
+00:36:17 - Error
+00:42:25 - Injector Parameter
+00:48:28 - Multiple Binding
+00:56:57 - Provider Set
+01:03:16 - Binding Interface
+01:14:50 - Struct Provider
+01:21:39 - Binding Values
+01:30:05 - Struct Field Provider
+01:34:57 - Cleanup Function
+01:44:05 - Dependency Injection di RESTful API
+01:57:26 - Materi Selanjutnya
 ```
 
 </details>

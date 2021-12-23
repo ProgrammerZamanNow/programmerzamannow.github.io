@@ -6,7 +6,7 @@ title: Kelas Online NodeJS
 
 Belajar NodeJS untuk pemula sampai mahir. Di kelas ini kita akan belajar NodeJS dari mulai awal sekali, sehingga cocok untuk pemula.
 
-![Spring Boot](/img/kelas-online/big/nodejs.jpg)
+![NodeJS](/img/kelas-online/big/nodejs.jpg)
 
 ## Kenapa Belajar NodeJS?
 
@@ -32,7 +32,7 @@ Harga Promo : Rp. 99.000
 Kelas NodeJS dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
 Peserta akan dibimbing belajar NodeJS secara bertahap, cukup ikuti materi dari awal sampai akhir.
 
-### Spring Boot Dasar
+### NodeJS Dasar
 
 <details>
 <summary>Daftar Materi : NodeJS Dasar</summary>
