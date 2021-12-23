@@ -46,6 +46,12 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 ## Promo Kelas Framework
 
+### Promo Kelas NodeJS
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/nodejs-pemula-sampai-mahir/?couponCode=PROMO99K
+
 ### Promo Kelas Framework Spring Boot : Pemula sampai Mahir
 
 - Harga Normal : Rp. 350.000
