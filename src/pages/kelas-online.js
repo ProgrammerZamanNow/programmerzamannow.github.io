@@ -121,6 +121,22 @@ export const CourseList = [
         ]
     },
     {
+        name: 'Kelas Online Mobile',
+        description: '',
+        courses: [
+            {
+                title: 'Kelas Android',
+                image: require('../../static/img/kelas-online/small/android.jpg').default,
+                description: (
+                    <>
+                        Membahas Android secara tuntas, dari dasar sampai mahir, disertau studi kasus.
+                    </>
+                ),
+                link: "/kelas-online/anroid"
+            }
+        ]
+    },
+    {
         name: 'Kelas Online Devops',
         description: '',
         courses: [
