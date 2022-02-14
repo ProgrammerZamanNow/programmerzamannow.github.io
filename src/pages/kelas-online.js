@@ -132,7 +132,7 @@ export const CourseList = [
                         Membahas Android secara tuntas, dari dasar sampai mahir, disertau studi kasus.
                     </>
                 ),
-                link: "/kelas-online/anroid"
+                link: "/kelas-online/android"
             }
         ]
     },
