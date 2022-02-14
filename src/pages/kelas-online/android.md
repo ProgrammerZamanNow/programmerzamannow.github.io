@@ -7,7 +7,7 @@ title: Kelas Online Android
 Belajar Android untuk pemula sampai mahir. Di kelas ini kita akan belajar membuat aplikasi Android 
 dari mulai awal sekali, sehingga cocok untuk pemula. 
 
-![Dart](/img/kelas-online/big/android.jpg)
+![Android](/img/kelas-online/big/android.jpg)
 
 ## Kenapa Belajar Android?
 
@@ -32,12 +32,12 @@ Harga Promo : Rp. 99.000
 ## Materi yang Diajarkan
 
 Kelas Android dibuat dalam bentuk Roadmap, sehingga peserta tidak perlu bingung harus mulai dari mana.
-Peserta akan dibimbing belajar Pemrograman Dart secara bertahap, cukup ikuti materi dari awal sampai akhir.
+Peserta akan dibimbing belajar membuat aplikasi Android secara bertahap, cukup ikuti materi dari awal sampai akhir.
 
-### Dart Dasar
+### Android Dasar
 
 <details>
-<summary>Daftar Materi : Dart Dasar</summary>
+<summary>Daftar Materi : Android Dasar</summary>
 
 ```text
 00:00:00 - Pendahuluan
