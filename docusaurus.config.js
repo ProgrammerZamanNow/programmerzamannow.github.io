@@ -36,14 +36,32 @@ module.exports = {
                 // },
                 {
                     position: 'left',
-                    to: '/kelas-online',
+                    to: 'https://kelas.programmerzamannow.com/',
                     label: 'Kelas Online',
                 },
                 {
                     position: 'left',
-                    to: '/promo',
                     label: 'Promo',
+                    items: [
+                        {
+                            to: 'https://kelas.programmerzamannow.com/',
+                            label: 'Promo Kelas Online',
+                        },
+                        {
+                            to: '/promo',
+                            label: 'Promo Kelas Online di Udemy',
+                        },
+                        {
+                            to: 'https://web.codepolitan.com/programmerzamannow/roadmap/',
+                            label: 'Promo Kelas Online di Codepolitan',
+                        }
+                    ]
                 },
+                // {
+                //     to: '/blog',
+                //     label: 'Blog',
+                //     position: 'left'
+                // },
                 {
                     position: 'left',
                     label: 'Tutorial',
