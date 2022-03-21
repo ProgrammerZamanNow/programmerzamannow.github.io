@@ -52,7 +52,7 @@ module.exports = {
                             label: 'Promo Kelas Online di Udemy',
                         },
                         {
-                            to: 'https://web.codepolitan.com/programmerzamannow/roadmap/',
+                            to: 'https://codepolitan.com/mentor/khannedy/',
                             label: 'Promo Kelas Online di Codepolitan',
                         }
                     ]
