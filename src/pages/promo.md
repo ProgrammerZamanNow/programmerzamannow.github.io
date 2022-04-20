@@ -58,6 +58,12 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 - Harga Promo : Rp. 99.000
 - Link Promo : https://www.udemy.com/course/spring-framework-dan-spring-boot-pemula-sampai-mahir/?couponCode=KARTINI
 
+### Promo Kelas Laravel Framework : Pemula sampai Mahir
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/laravel-pemula-sampai-mahir/?couponCode=KARTINI
+
 ## Promo Kelas Mobile
 
 ### Promo Kelas Android
