@@ -15,46 +15,81 @@ mindmapDiagram {
 </style>
 
 * Programmer Zaman Now
+
 ** Dasar
 *** Algoritma
 *** Struktur Data
+*** Basis Data
+
 ** Pemrograman
 *** Java
+*** JavaScript
 *** Go-Lang
 *** PHP
-*** JavaScript
 *** Dart
 *** Kotlin
+*** TypeScript
+
 ** Web
+*** HTTP
 *** HTML
 *** CSS
 *** JavaScript
+
 ** Database
-*** Basis Data
 *** MySQL
 *** PostgreSQL
 *** MongoDB
 *** Redis
 *** Elasticsearch
+
 ** Framework
 *** Laravel
 *** Spring Boot
 *** NodeJS
+*** ReactJS
+*** VueJS
+
 ** Mobile
 *** Android
 *** Flutter
 *** iOS
+
 ** Message Broker
 *** RabbitMQ
 *** Apache Kafka
+
 ** Code Design
 *** Clean Code
 *** Design Patterns
 *** Refactoring
 *** SOLID
+
 ** Software Design
 *** Microservices
+*** Domain Driven Design
+*** Clean Architecture
 *** Enterprise Integration Patterns
 *** Event Driven Architecture
+
+** DevOps
+*** Git
+*** Docker
+*** Kubernetes
+*** Jenkins
+*** Consul
+*** Vault
+*** Terraform
+
+** QA
+*** API Automation Test
+*** Performance Test
+*** Web Automation Test
+*** Mobile Automation Test
+
+** Corporate
+*** IT Consultation
+*** Corporate Training
+*** Software Development
 
 @endmindmap
