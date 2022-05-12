@@ -1,0 +1,60 @@
+@startmindmap
+
+<style>
+mindmapDiagram {
+    node {
+       BackgroundColor lightBlue
+    }
+    :depth(1) {
+       BackGroundColor lightGreen
+    }
+    :depth(2) {
+       BackGroundColor pink
+    }
+}
+</style>
+
+* Programmer Zaman Now
+** Dasar
+*** Algoritma
+*** Struktur Data
+** Pemrograman
+*** Java
+*** Go-Lang
+*** PHP
+*** JavaScript
+*** Dart
+*** Kotlin
+** Web
+*** HTML
+*** CSS
+*** JavaScript
+** Database
+*** Basis Data
+*** MySQL
+*** PostgreSQL
+*** MongoDB
+*** Redis
+*** Elasticsearch
+** Framework
+*** Laravel
+*** Spring Boot
+*** NodeJS
+** Mobile
+*** Android
+*** Flutter
+*** iOS
+** Message Broker
+*** RabbitMQ
+*** Apache Kafka
+** Code Design
+*** Clean Code
+*** Design Patterns
+*** Refactoring
+*** SOLID
+** Software Design
+*** Microservices
+*** Enterprise Integration Patterns
+*** Event Driven Architecture
+
+@endmindmap

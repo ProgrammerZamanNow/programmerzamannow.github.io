@@ -13,14 +13,6 @@ module.exports = {
     organizationName: 'ProgrammerZamanNow',
     projectName: 'programmerzamannow.github.io',
     themeConfig: {
-        googleAnalytics: {
-            trackingID: 'G-EL58ST4JHS',
-            anonymizeIP: true,
-        },
-        gtag: {
-            trackingID: 'G-EL58ST4JHS',
-            anonymizeIP: true,
-        },
         navbar: {
             title: 'Programmer Zaman Now',
             logo: {
@@ -203,6 +195,14 @@ module.exports = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl: 'https://github.com/ProgrammerZamanNow/programmerzamannow.github.io',
+                },
+                googleAnalytics: {
+                    trackingID: 'G-EL58ST4JHS',
+                    anonymizeIP: true,
+                },
+                gtag: {
+                    trackingID: 'G-EL58ST4JHS',
+                    anonymizeIP: true,
                 },
                 blog: {
                     showReadingTime: true,
