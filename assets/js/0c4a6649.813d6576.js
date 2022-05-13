@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprogrammer_zaman_now=self.webpackChunkprogrammer_zaman_now||[]).push([[6568],{8536:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"code-design-clean-code"}')}}]);
