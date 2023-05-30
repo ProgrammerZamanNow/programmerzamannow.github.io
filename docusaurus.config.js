@@ -28,27 +28,32 @@ module.exports = {
                 // },
                 {
                     position: 'left',
-                    to: 'https://kelas.programmerzamannow.com/',
-                    label: 'Kelas Online',
+                    to: '/promo',
+                    label: 'Promo Kelas Udemy',
                 },
                 {
                     position: 'left',
-                    label: 'Promo',
-                    items: [
-                        {
-                            to: 'https://kelas.programmerzamannow.com/',
-                            label: 'Promo Kelas Online',
-                        },
-                        {
-                            to: '/promo',
-                            label: 'Promo Kelas Online di Udemy',
-                        },
-                        {
-                            to: 'https://codepolitan.com/mentor/khannedy/',
-                            label: 'Promo Kelas Online di Codepolitan',
-                        }
-                    ]
+                    to: 'https://kelas.programmerzamannow.com/',
+                    label: 'Kelas Online',
                 },
+                // {
+                //     position: 'left',
+                //     label: 'Promo',
+                //     items: [
+                //         {
+                //             to: 'https://kelas.programmerzamannow.com/',
+                //             label: 'Promo Kelas Online',
+                //         },
+                //         {
+                //             to: '/promo',
+                //             label: 'Promo Kelas Online di Udemy',
+                //         },
+                //         {
+                //             to: 'https://codepolitan.com/mentor/khannedy/',
+                //             label: 'Promo Kelas Online di Codepolitan',
+                //         }
+                //     ]
+                // },
                 // {
                 //     to: '/blog',
                 //     label: 'Blog',
