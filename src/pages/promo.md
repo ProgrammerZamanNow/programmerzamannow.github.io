@@ -79,6 +79,12 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
 - Link Promo : https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=GAJI.23.05
+ 
+### Promo Kelas Database PostgreSQL : Pemula sampai Mahir
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-postgresql/?couponCode=GAJI.23.05
 
 ## Promo Kelas Code Design
 
