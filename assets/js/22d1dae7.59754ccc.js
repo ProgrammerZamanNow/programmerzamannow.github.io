@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogrammer_zaman_now=self.webpackChunkprogrammer_zaman_now||[]).push([[4153],{8731:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"software-design-microservices"}')}}]);
