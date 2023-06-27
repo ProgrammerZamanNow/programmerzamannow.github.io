@@ -42,7 +42,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 ### Promo Kelas Pemrograman Kotlin : Pemula sampai Mahir
 
-![Pemrograman Kotlin](../../static/img/kelas-online/small/kong.jpg)
+![Pemrograman Kotlin](../../static/img/kelas-online/small/kotlin.jpg)
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
