@@ -39,6 +39,14 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
 - Link Promo : https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=2023.JULI
+ 
+### Promo Kelas Pemrograman TypeScript : Pemula sampai Mahir
+
+![Pemrograman JavaScript](../../static/img/kelas-online/small/typescript.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-typescript/?couponCode=2023.JULI
 
 ### Promo Kelas Pemrograman Kotlin : Pemula sampai Mahir
 
