@@ -14,7 +14,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Pemrograman Java : Pemula sampai Mahir
 
@@ -22,7 +22,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Pemrograman PHP : Pemula sampai Mahir
 
@@ -30,7 +30,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Pemrograman JavaScript : Pemula sampai Mahir
 
@@ -38,7 +38,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=GAJI.2023.07
  
 ### Promo Kelas Pemrograman TypeScript : Pemula sampai Mahir
 
@@ -46,7 +46,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-typescript/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/belajar-typescript/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Pemrograman Kotlin : Pemula sampai Mahir
 
@@ -54,7 +54,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-kotlin-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/pemrograman-kotlin-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Pemrograman Dart : Pemula sampai Mahir
 
@@ -62,7 +62,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-dart-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/pemrograman-dart-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ## Promo Kelas Framework
 
@@ -72,7 +72,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/nodejs-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/nodejs-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Framework Spring Boot : Pemula sampai Mahir
 
@@ -80,7 +80,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/spring-framework-dan-spring-boot-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/spring-framework-dan-spring-boot-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ### Promo Kelas Laravel Framework : Pemula sampai Mahir
 
@@ -88,7 +88,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/laravel-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/laravel-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ## Promo Kelas Mobile
 
@@ -98,7 +98,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/android-untuk-pemula/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/android-untuk-pemula/?couponCode=GAJI.2023.07
 
 ## Promo Kelas Database
 
@@ -108,7 +108,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=GAJI.2023.07
  
 ### Promo Kelas Database PostgreSQL : Pemula sampai Mahir
 
@@ -116,7 +116,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-postgresql/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/belajar-postgresql/?couponCode=GAJI.2023.07
 
 ## Promo Kelas Code Design
 
@@ -126,7 +126,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=GAJI.2023.07
 
 ## Promo Kelas DevOps
 
@@ -136,7 +136,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/docker-pemula/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/docker-pemula/?couponCode=GAJI.2023.07
 - 
 ### Promo Kelas Jenkins : Pemula sampai Mahir
 
@@ -144,7 +144,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/jenkins-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/jenkins-pemula-sampai-mahir/?couponCode=GAJI.2023.07
 
 ## Promo Kelas Lainnya
 
@@ -154,4 +154,4 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=2023.07
+- Link Promo : https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=GAJI.2023.07
