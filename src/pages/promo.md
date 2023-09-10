@@ -102,9 +102,17 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 ## Promo Kelas Database
 
+### Promo Kelas Database Redis : Pemula sampai Mahir
+
+![Database Redis](../../static/img/kelas-online/small/redis.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-redis/?couponCode=2023.9.9
+
 ### Promo Kelas Database MongoDB : Pemula sampai Mahir
 
-![Database MySQL](../../static/img/kelas-online/small/mongodb.jpg)
+![Database MongoDB](../../static/img/kelas-online/small/mongodb.jpg)
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
