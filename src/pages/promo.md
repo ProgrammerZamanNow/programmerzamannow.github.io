@@ -150,6 +150,14 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 - Harga Promo : Rp. 99.000
 - Link Promo : https://www.udemy.com/course/belajar-kafka/?couponCode=2023.NATAL
 
+### Promo Kelas RabbitMQ : Pemula sampai Mahir
+
+![RabbitMQ](../../static/img/kelas-online/small/rabbitmq.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-rabbitmq/?couponCode=2023.NATAL
+
 ## Promo Kelas Code Design
 
 ### Promo Kelas Spring Boot Design Patterns : Pemula sampai Mahir
