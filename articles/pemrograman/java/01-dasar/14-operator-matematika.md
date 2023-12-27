@@ -12,11 +12,11 @@ Java mendukung semua operasi aritmatika seperti pertambahan, pengurangan, dan la
 
 | Operator | Keterangan  |
 |----------|-------------|
-| +        | Pertambahan |
-| -        | Pengurangan |
-| *        | Perkalian   |
-| /        | Pembagian   |
-| %        | Sisa Bagi   |
+| `+`        | Pertambahan |
+| `-`        | Pengurangan |
+| `*`        | Perkalian   |
+| `/`        | Pembagian   |
+| `%`        | Sisa Bagi   |
 
 Mungkin kita sudah terbiasa dengan operator pertambahan, pengurangan, perkalian dan pembagian. Yang mungkin agak asing adalah sisa bagi. Sisa bagi adalah operator yang menghasilkan sisa pembagian.
 
@@ -99,10 +99,10 @@ Java juga mendukung operator unary. Operator unary adalah operator yang hanya me
 
 | Operator | Keterangan                    |
 |----------|-------------------------------|
-| +        | Menandakan nilai positif      |
-| -        | Menandakan nilai negatif      |
-| ++       | Increment, menaikkan 1 angka  |
-| --       | Decrement, menurunkan 1 angka |
+| `+`        | Menandakan nilai positif      |
+| `-`        | Menandakan nilai negatif      |
+| `++`       | Increment, menaikkan 1 angka  |
+| `--`       | Decrement, menurunkan 1 angka |
 
 Operator unary hanya melibatkan satu data atau variable. Sekilas mirip dengan operator aritmatika, namun sebenarnya berbeda.
 
@@ -132,11 +132,11 @@ Java juga mendukung operator bitwise. Operator ini memang jarang sekali digunaka
 
 | Biswise | Operasi        |
 |---------|----------------|
-| &       | AND            |
-| ^       | exclusive OR   |
-| \|      | inclusive OR   |
-| <<      | Shift ke kiri  |
-| >>      | Shift ke kanan |
+| `&`       | AND            |
+| `^`       | exclusive OR   |
+| `\|`      | inclusive OR   |
+| `<<`      | Shift ke kiri  |
+| `>>`      | Shift ke kanan |
 
 ```java title="OperasiMatematika.java"
 public class OperasiMatematika {
