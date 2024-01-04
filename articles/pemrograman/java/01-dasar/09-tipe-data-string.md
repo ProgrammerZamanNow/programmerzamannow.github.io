@@ -4,7 +4,9 @@ sidebar_position: 9
 
 # Tipe Data String
 
-Tipe data string adalah tipe data yang berisikan kumpulan kosong atau lebih karakter. Sederhananya, string adalah tulisan atau text. Di Java, string direpresentasikan dengan kata kunci String. Dan untuk membuat data String, kita bisa menggunakan " (petik dua) lalu diikuti dengan isi string nya, dan diakhiri dengan " (petik dua) lagi.
+Tipe data string adalah tipe data yang berisikan kumpulan kosong atau lebih karakter. Sederhananya, string adalah
+tulisan atau text. Di Java, string direpresentasikan dengan kata kunci String. Dan untuk membuat data String, kita bisa
+menggunakan " (petik dua) lalu diikuti dengan isi string nya, dan diakhiri dengan " (petik dua) lagi.
 
 ```java title="TipeDataString.java"
 public class TipeDataString {
@@ -23,9 +25,12 @@ public class TipeDataString {
 
 ## Menggabungkan String
 
-Saat membuat aplikasi, biasanya kita sering menggabungkan beberapa String. Dan di Java, kita bisa menggabungkan data String dengan String yang lain menggunakan operator + (tambah). Ketika kita tambahkan data String dengan String lain, maka dia akan membentuk data String baru, tidak akan menggubah data String yang lama.
+Saat membuat aplikasi, biasanya kita sering menggabungkan beberapa String. Dan di Java, kita bisa menggabungkan data
+String dengan String yang lain menggunakan operator + (tambah). Ketika kita tambahkan data String dengan String lain,
+maka dia akan membentuk data String baru, tidak akan menggubah data String yang lama.
 
-Tidak ada batasan untuk menambah String, kita bisa gunakan banyak operator + (tambah) sebanyak yang kita mau. Batasan pembuatan String hanyalah seberapa besar RAM komputer kita.
+Tidak ada batasan untuk menambah String, kita bisa gunakan banyak operator + (tambah) sebanyak yang kita mau. Batasan
+pembuatan String hanyalah seberapa besar RAM komputer kita.
 
 ```java title="TipeDataString"
 public class TipeDataString {
@@ -49,7 +54,8 @@ public class TipeDataString {
 
 ## Escape Sequence
 
-Java mendukung escape sequence di String. Escape sequence merupakan karakter khusus, seperti ENTER, TAB, " (kutip dua), dan lain-lain. Berikut contoh escape sequence yang didukung oleh Java di data String
+Java mendukung escape sequence di String. Escape sequence merupakan karakter khusus, seperti ENTER, TAB, " (kutip dua),
+dan lain-lain. Berikut contoh escape sequence yang didukung oleh Java di data String
 
 | Escape Sequence | Karakter |
 |-----------------|----------|
@@ -76,7 +82,9 @@ public class TipeDataString {
 
 ## String Text Block
 
-Sejak di Java versi 13. Diperkenalkan fitur yang bernama String Text Block. Fitur ini merupakan fitur yang bisa kita gunakan untuk membuat String yang lebih dari satu baris secara sekaligus. Cara pembuatan String Text Block adalah dengan menggunakan """ (kutip dua sebanyak 3 kali) di awal dan akhir data String.
+Sejak di Java versi 13. Diperkenalkan fitur yang bernama String Text Block. Fitur ini merupakan fitur yang bisa kita
+gunakan untuk membuat String yang lebih dari satu baris secara sekaligus. Cara pembuatan String Text Block adalah dengan
+menggunakan """ (kutip dua sebanyak 3 kali) di awal dan akhir data String.
 
 ```java title="TipeDataString.java"
 public class TipeDataString {
@@ -105,7 +113,9 @@ Selain kerja, saya juga sering sharing soal programming
 di website Programmer Zaman Now
 ```
 
-Spasi kosong diawal otomatis hilang, mengikuti baris pertama. Jika baris pertama memiliki spasi misal 7 karakter, maka secara otomatis dibaris-bari selanjutnya akan dihapus juga spasi sebanyak 7 karakter. Ini membuat kita sangat mudah jika kita ingin misal membuat String berisi tag HTML atau JSON misalnya.
+Spasi kosong diawal otomatis hilang, mengikuti baris pertama. Jika baris pertama memiliki spasi misal 7 karakter, maka
+secara otomatis dibaris-bari selanjutnya akan dihapus juga spasi sebanyak 7 karakter. Ini membuat kita sangat mudah jika
+kita ingin misal membuat String berisi tag HTML atau JSON misalnya.
 
 ```java title="TipeDataString.java"
 public class TipeDataString {

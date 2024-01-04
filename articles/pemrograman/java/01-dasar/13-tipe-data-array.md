@@ -4,9 +4,12 @@ sidebar_position: 13
 
 # Tipe Data Array
 
-Array atau dalam bahasa indonesia bernama Larik, adalah sebuah tipe data yang berisikan kumpulan tipe data yang sama. Hampir di semua bahasa pemrograman memiliki fitur Array. Tanpa Array, akan sulit menyimpan data dalam jumlah banyak, apalagi dalam variable, maka kita harus membuat banyak sekali variable.
+Array atau dalam bahasa indonesia bernama Larik, adalah sebuah tipe data yang berisikan kumpulan tipe data yang sama.
+Hampir di semua bahasa pemrograman memiliki fitur Array. Tanpa Array, akan sulit menyimpan data dalam jumlah banyak,
+apalagi dalam variable, maka kita harus membuat banyak sekali variable.
 
-Seandainya tidak ada tipe data Array, maka jika kita ingin membuat kumpulan data (misal kumpulan data Nama), maka kita harus membuat banyak sekali variable.
+Seandainya tidak ada tipe data Array, maka jika kita ingin membuat kumpulan data (misal kumpulan data Nama), maka kita
+harus membuat banyak sekali variable.
 
 ```java title="Array.java"
 public class Array {
@@ -24,23 +27,29 @@ public class Array {
 }
 ```
 
-Solusi ini tidak bisa bertahan dalam waktu lama, apalagi jika jumlahnya dinamis. Maka membuat banyak variable tidak bisa menjadi solusi. Solusi untuk permasalahan ini adalah tipe data Array.
+Solusi ini tidak bisa bertahan dalam waktu lama, apalagi jika jumlahnya dinamis. Maka membuat banyak variable tidak bisa
+menjadi solusi. Solusi untuk permasalahan ini adalah tipe data Array.
 
 ## Cara Kerja Array
 
-Array adalah kumpulan data dengan tipe yang sama. Dan array memiliki panjang, dimana panjangnya harus ditentukan di awal ketika pembuatan Array. Setelah panjangnya di tentukan, panjang Array tidak bisa berubah lagi.
+Array adalah kumpulan data dengan tipe yang sama. Dan array memiliki panjang, dimana panjangnya harus ditentukan di awal
+ketika pembuatan Array. Setelah panjangnya di tentukan, panjang Array tidak bisa berubah lagi.
 
 ![Array](/img/tutorial-java/dasar/array.png)
 
 Contoh gambar diatas adalah Array dengan panjang 7. Artinya Array diatas bisa menampung total 7 data.
 
-Selain itu, Array memiliki informasi yang bernama index. Index yaitu nomor posisi letak data di Array. Data pertama dimulai dengan index nomor 0 (nol), data kedua adalah index 1, data ketiga adalah index 2, dan seterusnya. Index digunakan untuk mengakses data di dalam Array dan juga mengubah data di dalam Array.
+Selain itu, Array memiliki informasi yang bernama index. Index yaitu nomor posisi letak data di Array. Data pertama
+dimulai dengan index nomor 0 (nol), data kedua adalah index 1, data ketiga adalah index 2, dan seterusnya. Index
+digunakan untuk mengakses data di dalam Array dan juga mengubah data di dalam Array.
 
 ![Array Index](/img/tutorial-java/dasar/array-index.png)
 
 ## Membuat Array Kosong
 
-Setelah kita tahu cara kerja Array, sekarang saatnya kita mencoba membuat Array. Array adalah tipe data Object, jadi kita bisa mengisi data Array dengan null jika kita ingin. Untuk membuat Array, kita bisa menggunakan beberapa perintah. Kita mulai dengan membuat array kosong (tidak memiliki isi data)
+Setelah kita tahu cara kerja Array, sekarang saatnya kita mencoba membuat Array. Array adalah tipe data Object, jadi
+kita bisa mengisi data Array dengan null jika kita ingin. Untuk membuat Array, kita bisa menggunakan beberapa perintah.
+Kita mulai dengan membuat array kosong (tidak memiliki isi data)
 
 ```java 
 TipeData[] namaVariable = new TipeData[panjang];
@@ -62,7 +71,8 @@ public class Array {
 
 ## Mengubah Isi Data Array
 
-Setelah membuat Array, hal yang biasa kita lakukan adalah mengubah isi data Array-nya. Proses mengubah data array sangat sederhana, kita tinggal menggunakan posisi index nya, kita bisa gunakan perintah sebagai berikut :
+Setelah membuat Array, hal yang biasa kita lakukan adalah mengubah isi data Array-nya. Proses mengubah data array sangat
+sederhana, kita tinggal menggunakan posisi index nya, kita bisa gunakan perintah sebagai berikut :
 
 ```java 
 variableArray[index] = data;
@@ -93,11 +103,14 @@ public class Array {
 }
 ```
 
-Tak ada batasan mengubah data Array, kita bisa mengubah data Array berkali-kali. Selain itu tidak ada proses menghapus data Array, jika kita ingin menghapus data array, tinggal ubah saja datanya menjadi null jika tipe data array adalah tipe data Object
+Tak ada batasan mengubah data Array, kita bisa mengubah data Array berkali-kali. Selain itu tidak ada proses menghapus
+data Array, jika kita ingin menghapus data array, tinggal ubah saja datanya menjadi null jika tipe data array adalah
+tipe data Object
 
 ## Mengakses Data Array
 
-Untuk mengakses data di Array pun sama seperti dengan mengubah data di Array, yaitu membutuhkan index. Cara mengakses data di Array bisa menggunakan perintah sebagai berikut :
+Untuk mengakses data di Array pun sama seperti dengan mengubah data di Array, yaitu membutuhkan index. Cara mengakses
+data di Array bisa menggunakan perintah sebagai berikut :
 
 ```java 
 variableArray[index];
@@ -125,7 +138,9 @@ public class Array {
 
 ## Mendapat Panjang Array
 
-Kadang kita butuh mendapatkan informasi panjang sebuah Array. Panjang array adalah bukan informasi jumlah data yang terdapat di Array. Jadi jangan sampai salah, walaupun isi data Array masih kosong, panjang tetap akan selalu menghitung total kapasitas Array.
+Kadang kita butuh mendapatkan informasi panjang sebuah Array. Panjang array adalah bukan informasi jumlah data yang
+terdapat di Array. Jadi jangan sampai salah, walaupun isi data Array masih kosong, panjang tetap akan selalu menghitung
+total kapasitas Array.
 
 Untuk mendapatkan informasi panjang atau kapasitas Array, kita bisa gunakan perintah :
 
@@ -158,7 +173,9 @@ public class Array {
 
 ## Membuat Array dengan Data-nya
 
-Secara default, membuat Array selalu dimulai dengan isi Array yang kosong. Namun di Java kita bisa membuat Array secara langsung, dengan isi datanya. Hal ini bermanfaat jika memang kita ingin membuat Array dan datanya pada saat melakukan deklarasi variable.
+Secara default, membuat Array selalu dimulai dengan isi Array yang kosong. Namun di Java kita bisa membuat Array secara
+langsung, dengan isi datanya. Hal ini bermanfaat jika memang kita ingin membuat Array dan datanya pada saat melakukan
+deklarasi variable.
 
 ```java title="Array.java"
 public class Array {
@@ -177,9 +194,11 @@ public class Array {
 }
 ```
 
-Untuk membuat array secara langsung dengan datanya, kita bisa langsung menggunakan tanda kurung kurawal lalu didalamnya tinggal kita masukkan datanya. Posisi data akan otomatis mengikuti posisi index.
+Untuk membuat array secara langsung dengan datanya, kita bisa langsung menggunakan tanda kurung kurawal lalu didalamnya
+tinggal kita masukkan datanya. Posisi data akan otomatis mengikuti posisi index.
 
-Namun jika kita membuat variable Array dengan kata kunci var, maka saat membuat Array tidak bisa langsung menggunakan kurung kurawal saja, kita wajib menyebutkan tipe array nya. Seperti pada contoh dibawah ini.
+Namun jika kita membuat variable Array dengan kata kunci var, maka saat membuat Array tidak bisa langsung menggunakan
+kurung kurawal saja, kita wajib menyebutkan tipe array nya. Seperti pada contoh dibawah ini.
 
 ```java title="Array.java"
 public class Array {
@@ -201,7 +220,9 @@ public class Array {
 
 ## Error Array Index Out Of Bounds
 
-Salah satu error yang sering terjadi ketika menggunakan Array adalah error ArrayIndexOutOfBoundsException. Error ini terjadi dikarenakan kita mengakses posisi index yang salah, diluar jangkauan data di Array. Misal kita mengakses index posisi kurang dari 0, atau lebih dari atau sama dengan panjang array.
+Salah satu error yang sering terjadi ketika menggunakan Array adalah error ArrayIndexOutOfBoundsException. Error ini
+terjadi dikarenakan kita mengakses posisi index yang salah, diluar jangkauan data di Array. Misal kita mengakses index
+posisi kurang dari 0, atau lebih dari atau sama dengan panjang array.
 
 ```java title="Array.java"
 public class Array {
@@ -227,9 +248,11 @@ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 3 out
 
 ## Array Multidimensional
 
-Array juga bisa menampung data multidimensional, atau lebih tepatnya Array di dalam Array. Untuk membuat Array multidimensional kita bisa menggunakan kurung kotak lebih dari satu.
+Array juga bisa menampung data multidimensional, atau lebih tepatnya Array di dalam Array. Untuk membuat Array
+multidimensional kita bisa menggunakan kurung kotak lebih dari satu.
 
-Untuk mengakses dan mengubah data di Array multidimensional, kita perlu menggunakan sejumlah kurung kotak saat deklarasi Array nya.
+Untuk mengakses dan mengubah data di Array multidimensional, kita perlu menggunakan sejumlah kurung kotak saat deklarasi
+Array nya.
 
 ```java title="Array.java"
 public class Array {
@@ -263,7 +286,8 @@ Jika digambarkan dalam bentuk tabel, data Array pada kode diatas adalah sebagai 
 
 ## Menyalin Data Array ke Array Lain
 
-Java memiliki fitur untuk menyalin data Array secara mudah tanpa harus kita lakukan satu persatu. Carany dengan menggunakan kode :
+Java memiliki fitur untuk menyalin data Array secara mudah tanpa harus kita lakukan satu persatu. Carany dengan
+menggunakan kode :
 
 ```java 
 System.arraycopy(sourceArray, sourcePosition, destinationArray, destinationPositition, length);
