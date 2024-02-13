@@ -4,7 +4,29 @@ title: Pembayaran Kelas Programmer Zaman Now
 
 # Cara Pembayaran Kelas Programmer Zaman Now
 
-Sebelum melakukan pembayaran, silahkan pilih kelas yang akan diikuti di [kelas.programmerzamannow.com](/https://kelas.programmerzamannow.com/).
+Sebelum melakukan pembayaran, silahkan pilih kelas yang akan diikuti di https://kelas.programmerzamannow.com/
+
+## Transfer Bank
+
+Silahkan kirim sejumlah uang yang sesuai dengan harga kelas yang akan diikuti ke rekening berikut:
+
+- Bank: JAGO
+- Nomor Rekening: 1057-3122-2434
+- Nama: Yanti
+
+## Konfirmasi Pembayaran
+
+Setelah melakukan transfer, silahkan kirim bukti pengiriman ke nomor WhatsApp berikut: 
+
+Jam kerja untuk konfirmasi pembayaran adalah **Senin - Sabtu, pukul 09:00 - 18:00 WIB**. 
+Konfirmasi pembayaran diluar jam kerja akan diproses pada hari kerja berikutnya. 
+
+## Cara Mengakses Kelas
+
+Setelah pembayaran dikonfirmasi, Anda akan mendapatkan akses ke kelas yang telah dibeli melalui chat WhatsApp.
+Link yang akan diberi berupa link yang berisi kode kupon untuk mengakses kelas tersebut.
+Jika kode kupon sudah tidak berlaku, silahkan konfirmasi kembali ke nomor WhatsApp yang telah disebutkan di atas, 
+sehingga dapat diberikan kode kupon yang baru.
 
 ## Daftar Harga Kelas
 
@@ -36,12 +58,3 @@ Sebelum melakukan pembayaran, silahkan pilih kelas yang akan diikuti di [kelas.p
 | Belajar OpenAPI untuk Pemula                     | GRATIS     | https://kelas.programmerzamannow.com/p/belajar-openapi-untuk-pemula                     |
 | Kotlin RESTful API                               | GRATIS     | https://kelas.programmerzamannow.com/p/kotlin-restfulapi                                |
 | Belajar Ngrok HTTP Tunnel                        | GRATIS     | https://kelas.programmerzamannow.com/p/belajar-ngrok-http-tunnel                        |
-
-## Transfer Bank
-
-
-
-## Kirim Bukti Pengiriman
-
-
-## Cara Mengakses Kelas
