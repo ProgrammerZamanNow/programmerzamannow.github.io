@@ -32,6 +32,9 @@ sehingga dapat diberikan kode kupon yang baru.
 
 | Kelas                                            | Harga      | Link                                                                                    |
 |--------------------------------------------------|------------|-----------------------------------------------------------------------------------------|
+| Apache Kafka untuk Pemula sampai Mahir           | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-kafka                                    |
+| RabbitMQ untuk Pemula sampai Mahir               | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-rabbitmq                                 |
+| Pemrograman TypeScript untuk Pemula sampai Mahir | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-typescript                               |
 | Database Elasticsearch untuk Pemula sampai Mahir | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-elasticsearch                            |
 | Database Redis untuk Pemula sampai Mahir         | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-redis                                    |
 | Database MongoDB untuk Pemula sampai Mahir       | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-mongodb                                  |
