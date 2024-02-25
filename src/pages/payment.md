@@ -16,7 +16,7 @@ Silahkan kirim sejumlah uang yang sesuai dengan harga kelas yang akan diikuti ke
 
 ## Konfirmasi Pembayaran
 
-Setelah melakukan transfer, silahkan kirim bukti pembayaran dan sebutkan kelas yang ingin dibeli ke nomor WhatsApp berikut: **0851‑6174‑5660**
+Setelah melakukan transfer, silahkan kirim bukti pembayaran dan sebutkan kelas yang ingin dibeli ke nomor WhatsApp berikut: [0851‑6174‑5660](https://api.whatsapp.com/send?phone=6285161745660)
 
 Jam kerja untuk konfirmasi pembayaran adalah **Senin - Sabtu, pukul 09:00 - 18:00 WIB**. 
 Konfirmasi pembayaran diluar jam kerja akan diproses pada hari kerja berikutnya. 
