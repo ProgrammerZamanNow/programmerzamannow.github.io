@@ -66,6 +66,14 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 ## Promo Kelas Framework
 
+### Promo Kelas NestJS
+
+![NestJS](../../static/img/kelas-online/small/nestjs.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-nestjs/?couponCode=2024.03
+
 ### Promo Kelas NodeJS
 
 ![NodeJS](../../static/img/kelas-online/small/nodejs.jpg)
