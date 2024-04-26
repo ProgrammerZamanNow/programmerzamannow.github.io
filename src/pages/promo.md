@@ -74,6 +74,14 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 ## Promo Kelas Framework
 
+### Promo Kelas Bun
+
+![NestJS](../../static/img/kelas-online/small/bun.png)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-bun/?couponCode=2024.4.END
+
 ### Promo Kelas NestJS
 
 ![NestJS](../../static/img/kelas-online/small/nestjs.jpg)
