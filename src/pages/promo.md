@@ -230,3 +230,11 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
 - Link Promo : https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=2024.7.7
+
+### Promo Kelas Bootstrap CSS : Pemula sampai Mahir
+
+![Git](../../static/img/kelas-online/small/bootstrap.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-bootstrap-css/?couponCode=2024.7.7
