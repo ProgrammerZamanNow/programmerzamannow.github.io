@@ -32,6 +32,9 @@ sehingga dapat diberikan kode kupon yang baru.
 
 | Kelas                                            | Harga      | Link                                                                                    |
 |--------------------------------------------------|------------|-----------------------------------------------------------------------------------------|
+| Rust untuk Pemula sampai Mahir                   | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-rust                                     |
+| K6 untuk Pemula sampai Mahir                     | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-k6                                       |
+| Bun untuk Pemula sampai Mahir                    | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-bun                                      |
 | NestJS untuk Pemula sampai Mahir                 | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-nestjs                                   |
 | Apache Kafka untuk Pemula sampai Mahir           | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-kafka                                    |
 | RabbitMQ untuk Pemula sampai Mahir               | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-rabbitmq                                 |
