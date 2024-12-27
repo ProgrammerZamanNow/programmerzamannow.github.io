@@ -74,9 +74,17 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 ## Promo Kelas Framework
 
+### Promo Kelas VueJS
+
+![VueJS](../../static/img/kelas-online/small/vuejs.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-vuejs/?couponCode=2024.DEC
+
 ### Promo Kelas ReactJS
 
-![NestJS](../../static/img/kelas-online/small/reactjs.jpg)
+![ReactJS](../../static/img/kelas-online/small/reactjs.jpg)
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
