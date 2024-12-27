@@ -32,6 +32,8 @@ sehingga dapat diberikan kode kupon yang baru.
 
 | Kelas                                            | Harga      | Link                                                                                    |
 |--------------------------------------------------|------------|-----------------------------------------------------------------------------------------|
+| Vue.js untuk Pemula sampai Mahir                 | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-react                                    |
+| React.js untuk Pemula sampai Mahir               | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-vue                                      |
 | Rust untuk Pemula sampai Mahir                   | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-rust                                     |
 | K6 untuk Pemula sampai Mahir                     | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-k6                                       |
 | Bun untuk Pemula sampai Mahir                    | Rp. 75.000 | https://kelas.programmerzamannow.com/p/belajar-bun                                      |
