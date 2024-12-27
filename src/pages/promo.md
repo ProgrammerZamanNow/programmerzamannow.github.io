@@ -80,7 +80,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-vuejs/?couponCode=2024.DEC
+- Link Promo : https://www.udemy.com/course/belajar-vuejs/?couponCode=2024.END
 
 ### Promo Kelas ReactJS
 
@@ -88,7 +88,7 @@ KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah h
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-reactjs/?couponCode=2024.DEC
+- Link Promo : https://www.udemy.com/course/belajar-reactjs/?couponCode=2024.END
 
 ### Promo Kelas Bun
 
