@@ -7,8 +7,10 @@
       height="100"
     />
   </a>
-  <h2>Welcome to the ProgrammerzamanNow Website</h2>
+  <h3>Welcome to the ProgrammerzamanNow Website</h3>
 </div>
+
+<br/>
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
@@ -18,7 +20,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 $ yarn
 ```
 
-### Local Development
+### Local development
 
 ```
 $ yarn start
@@ -41,4 +43,4 @@ Using SSH:
 GIT_USER=khannedy USE_SSH=true DEPLOYMENT_BRANCH=gh-pages yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you're using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
