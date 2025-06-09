@@ -10,37 +10,33 @@
   <h3>Welcome to the ProgrammerzamanNow Website</h3>
 </div>
 
-<br/>
+### 🚀 Introduction
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator designed for fast and efficient content delivery
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+### 📦 Installation
+To install dependencies, run:
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local development
-
-```
-$ yarn start
-```
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```sh
+yarn
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
+### 🔥 Local Development
+Start a local development server and open a browser window:
+```sh
+yarn start
 ```
+Changes will be reflected live without restarting the server.
+
+### 🏗️ Build
+Generate static content for production:
+```sh
+yarn build
+```
+The static files will be stored in the build directory and can be deployed using any hosting service.
+
+### 🚀 Deployment
+Deploy using SSH:
+```sh
 GIT_USER=khannedy USE_SSH=true DEPLOYMENT_BRANCH=gh-pages yarn deploy
 ```
-
-If you're using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If hosting on GitHub Pages, this command conveniently builds and pushes to the `gh-pages` branch

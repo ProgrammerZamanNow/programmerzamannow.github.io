@@ -146,7 +146,7 @@ const config: Config = {
             // },
             {
               href: "https://web.facebook.com/groups/programmerzamannow",
-              label: "Facebook Group",
+              label: "Grup facebook",
             },
           ],
         },
@@ -211,7 +211,7 @@ const config: Config = {
             //     href: 'https://discordapp.com/invite/docusaurus',
             // },
             {
-              label: "Facebook Group",
+              label: "Grup facebook",
               href: "https://www.facebook.com/groups/526962685085680",
             },
           ],
@@ -230,7 +230,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Built with ❤️ by Programmer Zaman Now.`,
+      copyright: `Built with ❤️ by Programmer Zaman Now`,
     },
     prism: {
       theme: prismThemes.github,
