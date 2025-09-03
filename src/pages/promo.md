@@ -1,298 +1,175 @@
 ---
-title: Promo Kelas Online Udemy
+title: 🚀 Promo Kelas Online Udemy – Hanya Rp 99.000 🎉
 ---
 
-# Promo Kelas Online, Hanya 99K, Kuota Terbatas
+# 🚀 Promo Kelas Online Udemy – Hanya Rp 99.000 🎉
 
-KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah habis
+## 🎯 **KUOTA SANGAT TERBATAS - AMBIL KESEMPATAN EMAS INI SEBELUM TERLAMBAT!** 
 
-## Promo Kelas Studi Kasus Nyata
+⏰ **PROMO BERAKHIR KAPAN SAJA!** Jika kode promo tidak berfungsi, artinya kuota sudah HABIS TOTAL! 
 
-### Promo Kelas Studi Kasus Nyata Golang dan Redis
+💰 **Hemat 251K untuk SETIAP kelas!** Dari 350K menjadi hanya 99K - itu diskon 72%! 
 
-![Studi Kasus Go-Lang dan Redis](../../static/img/kelas-online/small/golang.jpg)
+🎓 **Investasi terbaik untuk karirmu!** Dengan harga secangkir kopi premium, kamu bisa menguasai teknologi masa depan dan meningkatkan gaji hingga jutaan rupiah!
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/studi-kasus-golang-redis/?couponCode=2025.8
+---
 
-### Promo Kelas Studi Kasus Nyata NodeJS dan Redis
+## 🎯 **Kelas Studi Kasus Nyata Redis - Belajar dari Proyek Dunia Nyata!** 🏆
 
-![Studi Kasus Go-Lang dan Redis](../../static/img/kelas-online/small/nodejs.jpg)
+*Kelas-kelas ini mengajarkan implementasi nyata di industri. Sempurna untuk yang ingin langsung praktik!*
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/studi-kasus-nodejs-redis/?couponCode=2025.8
+| 💻 **Nama Kelas** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🐹 Golang & Redis : Studi Kasus Dunia Nyata** <br/>*Membangun aplikasi performa tinggi dengan Go dan Redis* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/studi-kasus-golang-redis/?couponCode=2025.8) |
+| **🟢 NodeJS & Redis : Studi Kasus Dunia Nyata** <br/>*Backend JavaScript modern dengan caching strategy* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/studi-kasus-nodejs-redis/?couponCode=2025.8) |
+| **🌱 Spring Boot & Redis : Studi Kasus Dunia Nyata** <br/>*Enterprise Java application dengan Redis* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/studi-kasus-spring-boot-redis/?couponCode=2025.8) |
 
-### Promo Kelas Studi Kasus Nyata Spring Boot dan Redis
+---
 
-![Studi Kasus Go-Lang dan Redis](../../static/img/kelas-online/small/spring.jpg)
+## 🎯 **Kelas Pemrograman - Dari Nol Hingga Ahli!** 🚀
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/studi-kasus-spring-boot-redis/?couponCode=2025.8
+*Kuasai bahasa pemrograman terpopuler dari dasar hingga tingkat lanjut!*
 
-## Promo Kelas Pemrograman
+| 💻 **Bahasa Pemrograman** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🐍 Python : untuk Pemula sampai Mahir** <br/>*Bahasa #1 untuk AI, Sains Data & Pengembangan Web* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-python/?couponCode=2025.8) |
+| **🦀 Rust : untuk Pemula sampai Mahir** <br/>*Bahasa sistem masa depan - super cepat & aman memori* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-rust/?couponCode=2025.8) |
+| **🐹 Go-Lang : untuk Pemula sampai Mahir** <br/>*Bahasa Google untuk layanan mikro & aplikasi cloud* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=2025.8) |
+| **☕ Java : untuk Pemula sampai Mahir** <br/>*Standar enterprise - gaji tinggi terjamin!* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🐘 PHP : untuk Pemula sampai Mahir** <br/>*Pengembangan web klasik yang masih sangat diminati* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🟨 JavaScript : untuk Pemula sampai Mahir** <br/>*Bahasa web #1 - dari tampilan depan hingga belakang* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🔷 TypeScript : untuk Pemula sampai Mahir** <br/>*JavaScript dengan keamanan tipe - standar industri* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-typescript/?couponCode=2025.8) |
+| **🟣 Kotlin : untuk Pemula sampai Mahir** <br/>*Pengembangan Android modern & multi-platform* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/pemrograman-kotlin-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🎯 Dart : untuk Pemula sampai Mahir** <br/>*Bahasa Flutter untuk aplikasi mobile lintas-platform* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/pemrograman-dart-pemula-sampai-mahir/?couponCode=2025.8) |
 
-### Promo Kelas Pemrograman Python : Pemula sampai Mahir
+---
 
-![Pemrograman Python](../../static/img/kelas-online/small/python.jpg)
+## ⚡ **JANGAN SAMPAI TERLEWAT!** 
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-python/?couponCode=2025.8
+### 🔥 **Kenapa harus DAFTAR SEKARANG JUGA?**
+- ✅ **Kuota terbatas** - Hanya untuk 100 orang pertama!
+- ✅ **Harga naik drastis** setelah promo berakhir
+- ✅ **Lifetime access** - sekali bayar, belajar selamanya!
+- ✅ **Certificate completion** untuk boost CV/LinkedIn
+- ✅ **Update gratis** setiap ada konten baru
 
-### Promo Kelas Pemrograman Rust : Pemula sampai Mahir
+---
 
-![Pemrograman Rust](../../static/img/kelas-online/small/rust.png)
+## 🎯 **Framework Modern - Bangun Aplikasi Seperti Profesional!** ⚡
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-rust/?couponCode=2025.8
+*Framework terkini yang digunakan perusahaan unicorn & startup global!*
 
-### Promo Kelas Pemrograman Go-Lang : Pemula sampai Mahir
+| 💻 **Framework** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🟠 Svelte : untuk Pemula sampai Mahir** <br/>*Framework compiler tercepat - masa depan pengembangan web* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-svelte/?couponCode=2025.8) |
+| **💚 Vue.js : untuk Pemula sampai Mahir** <br/>*Framework progresif - mudah dipelajari, bertenaga* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-vuejs/?couponCode=2025.8) |
+| **⚛️ React.js : untuk Pemula sampai Mahir** <br/>*Library #1 dunia - Facebook, Netflix, Airbnb pakai ini* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-reactjs/?couponCode=2025.8) |
+| **🟤 Bun : untuk Pemula sampai Mahir** <br/>*Runtime JavaScript tercepat - pengganti Node.js* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-bun/?couponCode=2025.8) |
+| **🔴 NestJS : untuk Pemula sampai Mahir** <br/>*Node.js enterprise - arsitektur yang dapat diskalakan* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-nestjs/?couponCode=2025.8) |
+| **🟢 Node.js : untuk Pemula sampai Mahir** <br/>*Backend JavaScript - menggerakkan jutaan aplikasi* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/nodejs-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🌱 Spring Boot : untuk Pemula sampai Mahir** <br/>*Java enterprise - framework andalan perusahaan besar* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/spring-framework-dan-spring-boot-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🔴 Laravel : untuk Pemula sampai Mahir** <br/>*Framework PHP elegan - pengembangan cepat* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/laravel-pemula-sampai-mahir/?couponCode=2025.8) |
 
-![Pemrograman Go-Lang](../../static/img/kelas-online/small/golang.jpg)
+---
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/?couponCode=2025.8
+## 🎯 **Pengembangan Mobile - Bangun Aplikasi untuk Jutaan Pengguna!** 📱
 
-### Promo Kelas Pemrograman Java : Pemula sampai Mahir
+*Kuasai pengembangan aplikasi mobile yang menghasilkan miliaran rupiah! Era digital ini semua orang butuh aplikasi mobile - dari e-commerce, fintech, hingga gaming!*
 
-![Pemrograman Java](../../static/img/kelas-online/small/java.jpg)
+| 💻 **Platform Mobile** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🤖 Android : untuk Pemula sampai Mahir** <br/>*Aplikasi Android asli - pangsa pasar 70%+ dunia* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/android-untuk-pemula/?couponCode=2025.8) |
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/?couponCode=2025.8
+---
 
-### Promo Kelas Pemrograman PHP : Pemula sampai Mahir
+## 🎯 **Database & Data Besar - Kelola Jutaan Data!** 🗄️
 
-![Pemrograman PHP](../../static/img/kelas-online/small/php.jpg)
+*Keterampilan database yang wajib dikuasai pengembang modern untuk menangani lalu lintas tinggi!*
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-php-pemula-sampai-mahir/?couponCode=2025.8
+| 💻 **Teknologi Database** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🔍 Elasticsearch : untuk Pemula sampai Mahir** <br/>*Mesin pencari untuk data besar & analitik* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-elasticsearch/?couponCode=2025.8) |
+| **🔴 Redis : untuk Pemula sampai Mahir** <br/>*DB dalam-memori tercepat - caching & penyimpanan sesi* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-redis/?couponCode=2025.8) |
+| **🍃 MongoDB : untuk Pemula sampai Mahir** <br/>*NoSQL #1 - skema fleksibel untuk aplikasi modern* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-mongodb/?couponCode=2025.8) |
+| **🐬 MySQL : untuk Pemula sampai Mahir** <br/>*DB relasional terpopuler - wajib dikuasai pengembang* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🐘 PostgreSQL : untuk Pemula sampai Mahir** <br/>*DB relasional lanjutan - kelas enterprise* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-postgresql/?couponCode=2025.8) |
+| **📨 Apache Kafka : untuk Pemula sampai Mahir** <br/>*Platform streaming pesan - tangani jutaan event/detik* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-kafka/?couponCode=2025.8) |
+| **🐰 RabbitMQ : untuk Pemula sampai Mahir** <br/>*Message broker andal - komunikasi asinkron* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-rabbitmq/?couponCode=2025.8) |
 
-### Promo Kelas Pemrograman JavaScript : Pemula sampai Mahir
+---
 
-![Pemrograman JavaScript](../../static/img/kelas-online/small/javascript.jpg)
+## 🎯 **Arsitektur Kode - Tulis Kode Bersih Seperti Senior!** 🏗️
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-javascript-pemula-sampai-mahir/?couponCode=2025.8
- 
-### Promo Kelas Pemrograman TypeScript : Pemula sampai Mahir
+*Bedakan dirimu dari developer biasa! Pelajari pola desain dan arsitektur yang digunakan perusahaan besar. Kode yang bersih = mudah dipelihara = karir yang cemerlang!*
 
-![Pemrograman JavaScript](../../static/img/kelas-online/small/typescript.jpg)
+| 💻 **Arsitektur & Desain** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🎨 Spring Boot Design Patterns** <br/>*Pola desain enterprise - kode yang mudah dipelihara* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=2025.8) |
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-typescript/?couponCode=2025.8
+---
 
-### Promo Kelas Pemrograman Kotlin : Pemula sampai Mahir
+## 🎯 **DevOps & Cloud - Deploy Aplikasi Seperti Profesional!** ☁️
 
-![Pemrograman Kotlin](../../static/img/kelas-online/small/kotlin.jpg)
+*Keterampilan DevOps yang bikin gaji naik 2-3x lipat!*
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-kotlin-pemula-sampai-mahir/?couponCode=2025.8
+| 💻 **Alat DevOps** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🐳 Docker : untuk Pemula sampai Mahir** <br/>*Kontainerisasi aplikasi - deploy dimana saja, kapan saja* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/docker-pemula/?couponCode=2025.8) |
+| **🔧 Jenkins CI/CD : untuk Pemula sampai Mahir** <br/>*Otomasi deployment - dari kode ke produksi* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/jenkins-pemula-sampai-mahir/?couponCode=2025.8) |
 
-### Promo Kelas Pemrograman Dart : Pemula sampai Mahir
+---
 
-![Pemrograman Dart](../../static/img/kelas-online/small/dart.jpg)
+## 🎯 **Quality Assurance - Bangun Aplikasi Anti Peluru!** 🛡️
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/pemrograman-dart-pemula-sampai-mahir/?couponCode=2025.8
+*Jangan biarkan aplikasimu crash di hadapan user! QA Engineer adalah profesi dengan gaji tinggi dan sangat dibutuhkan. Pastikan aplikasimu tahan banting sebelum diluncurkan!*
 
-## Promo Kelas Framework
+| 💻 **QA & Testing** | 💰 **Harga & Link Promo** |
+|---|---|
+| **⚡ K6 Performance : untuk Pemula sampai Mahir** <br/>*Load testing modern - pastikan aplikasi tahan lalu lintas tinggi* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-k6/?couponCode=2025.8) |
 
-### Promo Kelas Svelte
+---
 
-![VueJS](../../static/img/kelas-online/small/svelte.jpg)
+## 🎯 **Alat Penting - Keterampilan Wajib Developer!** 🛠️
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-svelte/?couponCode=2025.8
+*Fundamental yang tidak boleh dilewatkan! Tanpa menguasai alat-alat ini, kamu akan tertinggal dari developer lain. Ini adalah pondasi dasar yang harus dikuasai setiap programmer profesional!*
 
-### Promo Kelas VueJS
+| 💻 **Alat Penting** | 💰 **Harga & Link Promo** |
+|---|---|
+| **🌿 Git : untuk Pemula sampai Mahir** <br/>*Alat kolaborasi #1 - wajib dikuasai semua pengembang* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=2025.8) |
+| **🎨 Bootstrap CSS : untuk Pemula sampai Mahir** <br/>*Desain responsif dipermudah - UI cantik dalam hitungan menit* | **~~Rp 350.000~~** ➡️ **Rp 99.000** <br/>🎯 [**AKSES UDEMY + KUPON 2025.8**](https://www.udemy.com/course/belajar-bootstrap-css/?couponCode=2025.8) |
 
-![VueJS](../../static/img/kelas-online/small/vuejs.jpg)
+---
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-vuejs/?couponCode=2025.8
+## 🚨 **LAST CALL - PROMO BERAKHIR KAPAN SAJA!** ⚠️
 
-### Promo Kelas ReactJS
+### 💭 **Bayangkan 6 bulan dari sekarang...**
+- 🎯 Kamu sudah menguasai teknologi modern
+- 💰 Gaji naik 2-3x lipat karena skill baru
+- 🏆 Confidence boost saat interview kerja
+- 🚀 Bisa freelance dengan rate jutaan per project
+- 🌟 Menjadi developer yang diperebutkan perusahaan
 
-![ReactJS](../../static/img/kelas-online/small/reactjs.jpg)
+### ⏰ **Vs jika kamu menunda...**
+- 😰 Harga naik kembali ke 350K
+- 📉 Skill tetap stagnan, karir jalan di tempat  
+- 💸 Kehilangan peluang gaji tinggi
+- 😞 Menyesal karena tidak ambil kesempatan emas ini
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-reactjs/?couponCode=2025.8
+---
 
-### Promo Kelas Bun
+## 🔥 **AMBIL AKSI SEKARANG - SEBELUM TERLAMBAT!** 
 
-![NestJS](../../static/img/kelas-online/small/bun.png)
+**⚡ Hanya dengan 99K (setara 3x makan di mall), kamu bisa:**
+- ✅ Dapatkan akses SELAMANYA ke kelas premium
+- ✅ Materi selalu ter-update mengikuti teknologi terbaru  
+- ✅ Certificate untuk boost CV & LinkedIn profile
+- ✅ Komunitas developer untuk networking
+- ✅ Support dari instructor jika ada pertanyaan
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-bun/?couponCode=2025.8
+**🎯 Pilih kelasmu sekarang dan mulai transformasi karirmu hari ini!**
 
-### Promo Kelas NestJS
+**💡 Remember: Investasi terbaik adalah investasi untuk diri sendiri. Pengetahuan adalah satu-satunya aset yang tidak bisa diambil orang lain!**
 
-![NestJS](../../static/img/kelas-online/small/nestjs.jpg)
+---
 
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-nestjs/?couponCode=2025.8
-
-### Promo Kelas NodeJS
-
-![NodeJS](../../static/img/kelas-online/small/nodejs.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/nodejs-pemula-sampai-mahir/?couponCode=2025.8
-
-### Promo Kelas Framework Spring Boot : Pemula sampai Mahir
-
-![Framework Spring Boot](../../static/img/kelas-online/small/spring.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/spring-framework-dan-spring-boot-pemula-sampai-mahir/?couponCode=2025.8
-
-### Promo Kelas Laravel Framework : Pemula sampai Mahir
-
-![Framework Laravel](../../static/img/kelas-online/small/laravel.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/laravel-pemula-sampai-mahir/?couponCode=2025.8
-
-## Promo Kelas Mobile
-
-### Promo Kelas Android
-
-![Android](../../static/img/kelas-online/small/android.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/android-untuk-pemula/?couponCode=2025.8
-
-## Promo Kelas Database
-
-### Promo Kelas Database Elasticsearch : Pemula sampai Mahir
-
-![Database Elasticsearch](../../static/img/kelas-online/small/elasticsearch.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-elasticsearch/?couponCode=2025.8
-
-### Promo Kelas Database Redis : Pemula sampai Mahir
-
-![Database Redis](../../static/img/kelas-online/small/redis.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-redis/?couponCode=2025.8
-
-### Promo Kelas Database MongoDB : Pemula sampai Mahir
-
-![Database MongoDB](../../static/img/kelas-online/small/mongodb.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-mongodb/?couponCode=2025.8
-
-### Promo Kelas Database MySQL : Pemula sampai Mahir
-
-![Database MySQL](../../static/img/kelas-online/small/mysql.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/database-mysql-pemula-sampai-mahir/?couponCode=2025.8
- 
-### Promo Kelas Database PostgreSQL : Pemula sampai Mahir
-
-![Database PostgreSQL](../../static/img/kelas-online/small/postgre.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-postgresql/?couponCode=2025.8
-- 
-### Promo Kelas Kafka : Pemula sampai Mahir
-
-![Kafka](../../static/img/kelas-online/small/kafka.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-kafka/?couponCode=2025.8
-
-### Promo Kelas RabbitMQ : Pemula sampai Mahir
-
-![RabbitMQ](../../static/img/kelas-online/small/rabbitmq.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-rabbitmq/?couponCode=2025.8
-
-## Promo Kelas Code Design
-
-### Promo Kelas Spring Boot Design Patterns : Pemula sampai Mahir
-
-![Spring Boot Design Patterns](../../static/img/kelas-online/small/spring.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/?couponCode=2025.8
-
-## Promo Kelas DevOps
-
-### Promo Kelas Docker : Pemula sampai Mahir
-
-![Docker](../../static/img/kelas-online/small/docker.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/docker-pemula/?couponCode=2025.8
-- 
-### Promo Kelas Jenkins : Pemula sampai Mahir
-
-![Jenkins](../../static/img/kelas-online/small/jenkins.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/jenkins-pemula-sampai-mahir/?couponCode=2025.8
-
-## Promo Kelas QA
-
-### Promo Kelas K6 : Performance Testing
-
-![Git](../../static/img/kelas-online/small/k6.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-k6/?couponCode=2025.8
-
-
-## Promo Kelas Lainnya
-
-### Promo Kelas Git : Pemula sampai Mahir
-
-![Git](../../static/img/kelas-online/small/git.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/tutorial-git-pemula-sampai-mahir/?couponCode=2025.8
-
-### Promo Kelas Bootstrap CSS : Pemula sampai Mahir
-
-![Git](../../static/img/kelas-online/small/bootstrap.jpg)
-
-- Harga Normal : Rp. 350.000
-- Harga Promo : Rp. 99.000
-- Link Promo : https://www.udemy.com/course/belajar-bootstrap-css/?couponCode=2025.8
+*⚠️ Disclaimer: Promo ini sangat terbatas dan bisa berakhir kapan saja tanpa pemberitahuan. Jangan sampai menyesal kemudian!*
