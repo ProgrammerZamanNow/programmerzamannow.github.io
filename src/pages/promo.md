@@ -6,11 +6,45 @@ title: Promo Kelas Online Udemy
 
 KUOTA PROMO TERBATAS! Jika kode promo tidak memotong artinya quota promo sudah habis
 
+## Promo Kelas Studi Kasus Nyata
+
+### Promo Kelas Studi Kasus Nyata Golang dan Redis
+
+![Studi Kasus Go-Lang dan Redis](../../static/img/kelas-online/small/golang.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/studi-kasus-golang-redis/?couponCode=2025.8
+
+### Promo Kelas Studi Kasus Nyata NodeJS dan Redis
+
+![Studi Kasus Go-Lang dan Redis](../../static/img/kelas-online/small/nodejs.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/studi-kasus-nodejs-redis/?couponCode=2025.8
+
+### Promo Kelas Studi Kasus Nyata Spring Boot dan Redis
+
+![Studi Kasus Go-Lang dan Redis](../../static/img/kelas-online/small/spring.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/studi-kasus-spring-boot-redis/?couponCode=2025.8
+
 ## Promo Kelas Pemrograman
+
+### Promo Kelas Pemrograman Python : Pemula sampai Mahir
+
+![Pemrograman Python](../../static/img/kelas-online/small/python.jpg)
+
+- Harga Normal : Rp. 350.000
+- Harga Promo : Rp. 99.000
+- Link Promo : https://www.udemy.com/course/belajar-python/?couponCode=2025.8
 
 ### Promo Kelas Pemrograman Rust : Pemula sampai Mahir
 
-![Pemrograman Go-Lang](../../static/img/kelas-online/small/rust.png)
+![Pemrograman Rust](../../static/img/kelas-online/small/rust.png)
 
 - Harga Normal : Rp. 350.000
 - Harga Promo : Rp. 99.000
