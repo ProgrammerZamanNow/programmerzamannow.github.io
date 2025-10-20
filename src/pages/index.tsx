@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://kelas.programmerzamannow.com/">
-              Gabung Kelas Online!
+              Gabung kelas online sekarang juga!
           </Link>
         </div>
       </div>
